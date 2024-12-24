@@ -1,0 +1,321 @@
+INFO - 2024-07-12 10:32:43 --> Config Class Initialized
+INFO - 2024-07-12 10:32:43 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:32:43 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:32:43 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:32:43 --> URI Class Initialized
+DEBUG - 2024-07-12 10:32:44 --> No URI present. Default controller set.
+INFO - 2024-07-12 10:32:44 --> Router Class Initialized
+INFO - 2024-07-12 10:32:44 --> Output Class Initialized
+INFO - 2024-07-12 10:32:44 --> Security Class Initialized
+DEBUG - 2024-07-12 10:32:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:32:44 --> Input Class Initialized
+INFO - 2024-07-12 10:32:44 --> Language Class Initialized
+INFO - 2024-07-12 10:32:44 --> Loader Class Initialized
+INFO - 2024-07-12 10:32:44 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:32:44 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:32:44 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:32:44 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:32:44 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:32:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:32:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:32:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:32:44 --> Pagination Class Initialized
+INFO - 2024-07-12 10:32:44 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:32:44 --> User Agent Class Initialized
+INFO - 2024-07-12 10:32:44 --> Controller Class Initialized
+INFO - 2024-07-12 10:32:44 --> Model "M_tulisan" initialized
+INFO - 2024-07-12 10:32:44 --> Model "M_galeri" initialized
+INFO - 2024-07-12 10:32:44 --> Model "M_pengumuman" initialized
+INFO - 2024-07-12 10:32:44 --> Model "M_agenda" initialized
+INFO - 2024-07-12 10:32:44 --> Model "M_files" initialized
+INFO - 2024-07-12 10:32:44 --> Model "M_pengunjung" initialized
+INFO - 2024-07-12 10:32:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/header.php
+INFO - 2024-07-12 10:32:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/navigation.php
+INFO - 2024-07-12 10:32:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/home.php
+INFO - 2024-07-12 10:32:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/footer.php
+INFO - 2024-07-12 10:32:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/template.php
+INFO - 2024-07-12 10:32:45 --> Final output sent to browser
+DEBUG - 2024-07-12 10:32:45 --> Total execution time: 1.5696
+INFO - 2024-07-12 10:32:46 --> Config Class Initialized
+INFO - 2024-07-12 10:32:46 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:32:46 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:32:46 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:32:46 --> URI Class Initialized
+INFO - 2024-07-12 10:32:46 --> Router Class Initialized
+INFO - 2024-07-12 10:32:46 --> Output Class Initialized
+INFO - 2024-07-12 10:32:46 --> Security Class Initialized
+DEBUG - 2024-07-12 10:32:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:32:46 --> Input Class Initialized
+INFO - 2024-07-12 10:32:46 --> Language Class Initialized
+ERROR - 2024-07-12 10:32:46 --> 404 Page Not Found: Img/program
+INFO - 2024-07-12 10:32:49 --> Config Class Initialized
+INFO - 2024-07-12 10:32:49 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:32:49 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:32:49 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:32:49 --> URI Class Initialized
+INFO - 2024-07-12 10:32:49 --> Router Class Initialized
+INFO - 2024-07-12 10:32:49 --> Output Class Initialized
+INFO - 2024-07-12 10:32:49 --> Security Class Initialized
+DEBUG - 2024-07-12 10:32:49 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:32:49 --> Input Class Initialized
+INFO - 2024-07-12 10:32:49 --> Language Class Initialized
+INFO - 2024-07-12 10:32:49 --> Loader Class Initialized
+INFO - 2024-07-12 10:32:49 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:32:49 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:32:49 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:32:49 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:32:49 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:32:49 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:32:49 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:32:49 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:32:49 --> Pagination Class Initialized
+INFO - 2024-07-12 10:32:49 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:32:49 --> User Agent Class Initialized
+INFO - 2024-07-12 10:32:49 --> Controller Class Initialized
+INFO - 2024-07-12 10:32:49 --> Model "M_video" initialized
+INFO - 2024-07-12 10:32:49 --> Helper loaded: download_helper
+INFO - 2024-07-12 10:32:49 --> Model "M_pengunjung" initialized
+INFO - 2024-07-12 10:32:49 --> Model "M_siswa" initialized
+INFO - 2024-07-12 10:32:49 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/header.php
+INFO - 2024-07-12 10:32:49 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/navigation.php
+INFO - 2024-07-12 10:32:49 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/v_siswa_baru.php
+INFO - 2024-07-12 10:32:49 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/footer.php
+INFO - 2024-07-12 10:32:49 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/template.php
+INFO - 2024-07-12 10:32:49 --> Final output sent to browser
+DEBUG - 2024-07-12 10:32:49 --> Total execution time: 0.1885
+INFO - 2024-07-12 10:32:52 --> Config Class Initialized
+INFO - 2024-07-12 10:32:52 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:32:52 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:32:52 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:32:52 --> URI Class Initialized
+INFO - 2024-07-12 10:32:52 --> Router Class Initialized
+INFO - 2024-07-12 10:32:52 --> Output Class Initialized
+INFO - 2024-07-12 10:32:52 --> Security Class Initialized
+DEBUG - 2024-07-12 10:32:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:32:52 --> Input Class Initialized
+INFO - 2024-07-12 10:32:52 --> Language Class Initialized
+INFO - 2024-07-12 10:32:52 --> Loader Class Initialized
+INFO - 2024-07-12 10:32:52 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:32:52 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:32:52 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:32:52 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:32:52 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:32:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:32:52 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:32:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:32:52 --> Pagination Class Initialized
+INFO - 2024-07-12 10:32:52 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:32:52 --> User Agent Class Initialized
+INFO - 2024-07-12 10:32:52 --> Controller Class Initialized
+INFO - 2024-07-12 10:32:52 --> Model "M_login" initialized
+INFO - 2024-07-12 10:32:52 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/v_login.php
+INFO - 2024-07-12 10:32:52 --> Final output sent to browser
+DEBUG - 2024-07-12 10:32:52 --> Total execution time: 0.1018
+INFO - 2024-07-12 10:32:58 --> Config Class Initialized
+INFO - 2024-07-12 10:32:58 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:32:58 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:32:58 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:32:58 --> URI Class Initialized
+INFO - 2024-07-12 10:32:58 --> Router Class Initialized
+INFO - 2024-07-12 10:32:58 --> Output Class Initialized
+INFO - 2024-07-12 10:32:58 --> Security Class Initialized
+DEBUG - 2024-07-12 10:32:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:32:58 --> Input Class Initialized
+INFO - 2024-07-12 10:32:58 --> Language Class Initialized
+INFO - 2024-07-12 10:32:58 --> Loader Class Initialized
+INFO - 2024-07-12 10:32:58 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:32:58 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:32:58 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:32:58 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:32:58 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:32:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:32:58 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:32:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:32:58 --> Pagination Class Initialized
+INFO - 2024-07-12 10:32:58 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:32:58 --> User Agent Class Initialized
+INFO - 2024-07-12 10:32:58 --> Controller Class Initialized
+INFO - 2024-07-12 10:32:58 --> Model "M_login" initialized
+ERROR - 2024-07-12 10:32:58 --> Severity: Notice --> Undefined variable: pengguna_nama C:\xampp\htdocs\websitesekolah\application\controllers\Login.php 21
+ERROR - 2024-07-12 10:32:58 --> Severity: Notice --> Undefined property: stdClass::$ C:\xampp\htdocs\websitesekolah\application\controllers\Login.php 21
+INFO - 2024-07-12 10:32:58 --> Config Class Initialized
+INFO - 2024-07-12 10:32:58 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:32:58 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:32:58 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:32:58 --> URI Class Initialized
+INFO - 2024-07-12 10:32:58 --> Router Class Initialized
+INFO - 2024-07-12 10:32:58 --> Output Class Initialized
+INFO - 2024-07-12 10:32:58 --> Security Class Initialized
+DEBUG - 2024-07-12 10:32:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:32:58 --> Input Class Initialized
+INFO - 2024-07-12 10:32:58 --> Language Class Initialized
+INFO - 2024-07-12 10:32:58 --> Loader Class Initialized
+INFO - 2024-07-12 10:32:58 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:32:58 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:32:58 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:32:58 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:32:58 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:32:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:32:58 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:32:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:32:58 --> Pagination Class Initialized
+INFO - 2024-07-12 10:32:58 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:32:58 --> User Agent Class Initialized
+INFO - 2024-07-12 10:32:58 --> Controller Class Initialized
+INFO - 2024-07-12 10:32:58 --> Model "M_pengunjung" initialized
+INFO - 2024-07-12 10:32:59 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-07-12 10:32:59 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_dashboard.php
+INFO - 2024-07-12 10:32:59 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-07-12 10:32:59 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-07-12 10:32:59 --> Final output sent to browser
+DEBUG - 2024-07-12 10:32:59 --> Total execution time: 0.3618
+INFO - 2024-07-12 10:33:05 --> Config Class Initialized
+INFO - 2024-07-12 10:33:05 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:33:05 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:33:05 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:33:05 --> URI Class Initialized
+INFO - 2024-07-12 10:33:05 --> Router Class Initialized
+INFO - 2024-07-12 10:33:05 --> Output Class Initialized
+INFO - 2024-07-12 10:33:05 --> Security Class Initialized
+DEBUG - 2024-07-12 10:33:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:33:05 --> Input Class Initialized
+INFO - 2024-07-12 10:33:05 --> Language Class Initialized
+INFO - 2024-07-12 10:33:05 --> Loader Class Initialized
+INFO - 2024-07-12 10:33:05 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:33:05 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:33:05 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:33:05 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:33:05 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:33:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:33:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:33:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:33:05 --> Pagination Class Initialized
+INFO - 2024-07-12 10:33:05 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:33:05 --> User Agent Class Initialized
+INFO - 2024-07-12 10:33:05 --> Controller Class Initialized
+INFO - 2024-07-12 10:33:05 --> Model "M_login" initialized
+INFO - 2024-07-12 10:33:05 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/v_login.php
+INFO - 2024-07-12 10:33:05 --> Final output sent to browser
+DEBUG - 2024-07-12 10:33:05 --> Total execution time: 0.0729
+INFO - 2024-07-12 10:33:13 --> Config Class Initialized
+INFO - 2024-07-12 10:33:13 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:33:13 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:33:13 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:33:13 --> URI Class Initialized
+INFO - 2024-07-12 10:33:13 --> Router Class Initialized
+INFO - 2024-07-12 10:33:13 --> Output Class Initialized
+INFO - 2024-07-12 10:33:13 --> Security Class Initialized
+DEBUG - 2024-07-12 10:33:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:33:13 --> Input Class Initialized
+INFO - 2024-07-12 10:33:13 --> Language Class Initialized
+INFO - 2024-07-12 10:33:13 --> Loader Class Initialized
+INFO - 2024-07-12 10:33:13 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:33:13 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:33:13 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:33:13 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:33:13 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:33:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:33:13 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:33:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:33:13 --> Pagination Class Initialized
+INFO - 2024-07-12 10:33:13 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:33:13 --> User Agent Class Initialized
+INFO - 2024-07-12 10:33:13 --> Controller Class Initialized
+INFO - 2024-07-12 10:33:13 --> Model "M_login" initialized
+ERROR - 2024-07-12 10:33:13 --> Severity: Notice --> Undefined variable: pengguna_nama C:\xampp\htdocs\websitesekolah\application\controllers\Login.php 21
+ERROR - 2024-07-12 10:33:13 --> Severity: Notice --> Undefined property: stdClass::$ C:\xampp\htdocs\websitesekolah\application\controllers\Login.php 21
+INFO - 2024-07-12 10:33:13 --> Config Class Initialized
+INFO - 2024-07-12 10:33:13 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:33:13 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:33:13 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:33:13 --> URI Class Initialized
+INFO - 2024-07-12 10:33:13 --> Router Class Initialized
+INFO - 2024-07-12 10:33:13 --> Output Class Initialized
+INFO - 2024-07-12 10:33:13 --> Security Class Initialized
+DEBUG - 2024-07-12 10:33:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:33:13 --> Input Class Initialized
+INFO - 2024-07-12 10:33:13 --> Language Class Initialized
+INFO - 2024-07-12 10:33:13 --> Loader Class Initialized
+INFO - 2024-07-12 10:33:13 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:33:13 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:33:13 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:33:13 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:33:13 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:33:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:33:13 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:33:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:33:13 --> Pagination Class Initialized
+INFO - 2024-07-12 10:33:13 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:33:13 --> User Agent Class Initialized
+INFO - 2024-07-12 10:33:13 --> Controller Class Initialized
+INFO - 2024-07-12 10:33:13 --> Model "M_pendaftar" initialized
+INFO - 2024-07-12 10:33:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-07-12 10:33:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_dashboard.php
+INFO - 2024-07-12 10:33:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-07-12 10:33:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-07-12 10:33:13 --> Final output sent to browser
+DEBUG - 2024-07-12 10:33:13 --> Total execution time: 0.1856
+INFO - 2024-07-12 10:33:15 --> Config Class Initialized
+INFO - 2024-07-12 10:33:15 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:33:15 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:33:15 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:33:15 --> URI Class Initialized
+INFO - 2024-07-12 10:33:15 --> Router Class Initialized
+INFO - 2024-07-12 10:33:15 --> Output Class Initialized
+INFO - 2024-07-12 10:33:15 --> Security Class Initialized
+DEBUG - 2024-07-12 10:33:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:33:15 --> Input Class Initialized
+INFO - 2024-07-12 10:33:15 --> Language Class Initialized
+INFO - 2024-07-12 10:33:15 --> Loader Class Initialized
+INFO - 2024-07-12 10:33:15 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:33:15 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:33:15 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:33:15 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:33:15 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:33:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:33:15 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:33:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:33:15 --> Pagination Class Initialized
+INFO - 2024-07-12 10:33:15 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:33:15 --> User Agent Class Initialized
+INFO - 2024-07-12 10:33:15 --> Controller Class Initialized
+INFO - 2024-07-12 10:33:15 --> Model "M_pendaftar" initialized
+INFO - 2024-07-12 10:33:15 --> Upload Class Initialized
+INFO - 2024-07-12 10:33:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-07-12 10:33:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_upload.php
+INFO - 2024-07-12 10:33:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-07-12 10:33:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-07-12 10:33:15 --> Final output sent to browser
+DEBUG - 2024-07-12 10:33:15 --> Total execution time: 0.2284
+INFO - 2024-07-12 10:33:21 --> Config Class Initialized
+INFO - 2024-07-12 10:33:21 --> Hooks Class Initialized
+DEBUG - 2024-07-12 10:33:21 --> UTF-8 Support Enabled
+INFO - 2024-07-12 10:33:21 --> Utf8 Class Initialized
+INFO - 2024-07-12 10:33:21 --> URI Class Initialized
+INFO - 2024-07-12 10:33:21 --> Router Class Initialized
+INFO - 2024-07-12 10:33:21 --> Output Class Initialized
+INFO - 2024-07-12 10:33:21 --> Security Class Initialized
+DEBUG - 2024-07-12 10:33:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-07-12 10:33:21 --> Input Class Initialized
+INFO - 2024-07-12 10:33:21 --> Language Class Initialized
+INFO - 2024-07-12 10:33:21 --> Loader Class Initialized
+INFO - 2024-07-12 10:33:21 --> Helper loaded: url_helper
+INFO - 2024-07-12 10:33:21 --> Helper loaded: global_helper
+INFO - 2024-07-12 10:33:21 --> Helper loaded: file_helper
+INFO - 2024-07-12 10:33:21 --> Helper loaded: form_helper
+INFO - 2024-07-12 10:33:21 --> Database Driver Class Initialized
+DEBUG - 2024-07-12 10:33:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-07-12 10:33:21 --> Session: Class initialized using 'files' driver.
+INFO - 2024-07-12 10:33:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-07-12 10:33:21 --> Pagination Class Initialized
+INFO - 2024-07-12 10:33:21 --> XML-RPC Class Initialized
+INFO - 2024-07-12 10:33:21 --> User Agent Class Initialized
+INFO - 2024-07-12 10:33:21 --> Controller Class Initialized
+INFO - 2024-07-12 10:33:21 --> Model "M_pendaftar" initialized
+INFO - 2024-07-12 10:33:21 --> Upload Class Initialized
+INFO - 2024-07-12 10:33:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-07-12 10:33:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_upload.php
+INFO - 2024-07-12 10:33:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-07-12 10:33:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-07-12 10:33:21 --> Final output sent to browser
+DEBUG - 2024-07-12 10:33:21 --> Total execution time: 0.0762

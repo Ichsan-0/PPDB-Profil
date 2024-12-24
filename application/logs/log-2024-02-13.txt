@@ -1,0 +1,2596 @@
+INFO - 2024-02-13 03:21:23 --> Config Class Initialized
+INFO - 2024-02-13 03:21:23 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:21:23 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:21:23 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:21:23 --> URI Class Initialized
+INFO - 2024-02-13 03:21:23 --> Router Class Initialized
+INFO - 2024-02-13 03:21:23 --> Output Class Initialized
+INFO - 2024-02-13 03:21:23 --> Security Class Initialized
+DEBUG - 2024-02-13 03:21:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:21:23 --> Input Class Initialized
+INFO - 2024-02-13 03:21:23 --> Language Class Initialized
+INFO - 2024-02-13 03:21:23 --> Loader Class Initialized
+INFO - 2024-02-13 03:21:23 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:21:23 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:21:23 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:21:23 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:21:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:21:23 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:21:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:21:23 --> Pagination Class Initialized
+INFO - 2024-02-13 03:21:23 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:21:23 --> User Agent Class Initialized
+INFO - 2024-02-13 03:21:23 --> Controller Class Initialized
+INFO - 2024-02-13 03:21:23 --> Model "M_files" initialized
+INFO - 2024-02-13 03:21:23 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:21:23 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:21:23 --> Upload Class Initialized
+INFO - 2024-02-13 03:21:23 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:21:23 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:21:23 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:21:54 --> Config Class Initialized
+INFO - 2024-02-13 03:21:54 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:21:54 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:21:54 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:21:54 --> URI Class Initialized
+INFO - 2024-02-13 03:21:54 --> Router Class Initialized
+INFO - 2024-02-13 03:21:54 --> Output Class Initialized
+INFO - 2024-02-13 03:21:54 --> Security Class Initialized
+DEBUG - 2024-02-13 03:21:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:21:54 --> Input Class Initialized
+INFO - 2024-02-13 03:21:54 --> Language Class Initialized
+INFO - 2024-02-13 03:21:54 --> Loader Class Initialized
+INFO - 2024-02-13 03:21:54 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:21:54 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:21:54 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:21:54 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:21:54 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:21:54 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:21:54 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:21:54 --> Pagination Class Initialized
+INFO - 2024-02-13 03:21:54 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:21:54 --> User Agent Class Initialized
+INFO - 2024-02-13 03:21:54 --> Controller Class Initialized
+INFO - 2024-02-13 03:21:54 --> Model "M_files" initialized
+INFO - 2024-02-13 03:21:54 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:21:54 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:21:54 --> Upload Class Initialized
+INFO - 2024-02-13 03:21:54 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:21:54 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:21:54 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:21:57 --> Config Class Initialized
+INFO - 2024-02-13 03:21:57 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:21:57 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:21:57 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:21:57 --> URI Class Initialized
+INFO - 2024-02-13 03:21:57 --> Router Class Initialized
+INFO - 2024-02-13 03:21:57 --> Output Class Initialized
+INFO - 2024-02-13 03:21:57 --> Security Class Initialized
+DEBUG - 2024-02-13 03:21:57 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:21:57 --> Input Class Initialized
+INFO - 2024-02-13 03:21:57 --> Language Class Initialized
+INFO - 2024-02-13 03:21:57 --> Loader Class Initialized
+INFO - 2024-02-13 03:21:57 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:21:57 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:21:57 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:21:57 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:21:57 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:21:57 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:21:57 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:21:57 --> Pagination Class Initialized
+INFO - 2024-02-13 03:21:57 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:21:57 --> User Agent Class Initialized
+INFO - 2024-02-13 03:21:57 --> Controller Class Initialized
+INFO - 2024-02-13 03:21:57 --> Model "M_files" initialized
+INFO - 2024-02-13 03:21:57 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:21:57 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:21:57 --> Upload Class Initialized
+INFO - 2024-02-13 03:21:57 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:21:57 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:21:57 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:00 --> Config Class Initialized
+INFO - 2024-02-13 03:22:00 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:00 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:00 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:00 --> URI Class Initialized
+INFO - 2024-02-13 03:22:00 --> Router Class Initialized
+INFO - 2024-02-13 03:22:00 --> Output Class Initialized
+INFO - 2024-02-13 03:22:00 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:00 --> Input Class Initialized
+INFO - 2024-02-13 03:22:00 --> Language Class Initialized
+INFO - 2024-02-13 03:22:00 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:00 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:00 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:00 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:00 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:00 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:00 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:00 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:00 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:00 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:00 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:00 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:00 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:00 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:00 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:02 --> Config Class Initialized
+INFO - 2024-02-13 03:22:02 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:02 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:02 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:02 --> URI Class Initialized
+INFO - 2024-02-13 03:22:02 --> Router Class Initialized
+INFO - 2024-02-13 03:22:02 --> Output Class Initialized
+INFO - 2024-02-13 03:22:02 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:02 --> Input Class Initialized
+INFO - 2024-02-13 03:22:02 --> Language Class Initialized
+INFO - 2024-02-13 03:22:02 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:02 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:02 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:02 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:02 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:02 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:02 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:02 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:02 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:02 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:02 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:02 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:02 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:02 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:02 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:02 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:02 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:03 --> Config Class Initialized
+INFO - 2024-02-13 03:22:03 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:03 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:03 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:03 --> URI Class Initialized
+INFO - 2024-02-13 03:22:03 --> Router Class Initialized
+INFO - 2024-02-13 03:22:03 --> Output Class Initialized
+INFO - 2024-02-13 03:22:03 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:03 --> Input Class Initialized
+INFO - 2024-02-13 03:22:03 --> Language Class Initialized
+INFO - 2024-02-13 03:22:03 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:03 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:03 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:03 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:03 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:03 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:03 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:03 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:03 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:03 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:03 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:03 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:03 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:03 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:03 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:03 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:03 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:03 --> Config Class Initialized
+INFO - 2024-02-13 03:22:03 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:03 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:03 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:03 --> URI Class Initialized
+INFO - 2024-02-13 03:22:03 --> Router Class Initialized
+INFO - 2024-02-13 03:22:03 --> Output Class Initialized
+INFO - 2024-02-13 03:22:03 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:03 --> Input Class Initialized
+INFO - 2024-02-13 03:22:03 --> Language Class Initialized
+INFO - 2024-02-13 03:22:03 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:03 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:03 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:03 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:03 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:03 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:03 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:03 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:03 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:03 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:03 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:03 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:03 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:03 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:03 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:03 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:03 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:03 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:03 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:04 --> Config Class Initialized
+INFO - 2024-02-13 03:22:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:04 --> URI Class Initialized
+INFO - 2024-02-13 03:22:04 --> Router Class Initialized
+INFO - 2024-02-13 03:22:04 --> Output Class Initialized
+INFO - 2024-02-13 03:22:04 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:04 --> Input Class Initialized
+INFO - 2024-02-13 03:22:04 --> Language Class Initialized
+INFO - 2024-02-13 03:22:04 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:04 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:04 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:04 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:04 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:04 --> Config Class Initialized
+INFO - 2024-02-13 03:22:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:04 --> URI Class Initialized
+INFO - 2024-02-13 03:22:04 --> Router Class Initialized
+INFO - 2024-02-13 03:22:04 --> Output Class Initialized
+INFO - 2024-02-13 03:22:04 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:04 --> Input Class Initialized
+INFO - 2024-02-13 03:22:04 --> Language Class Initialized
+INFO - 2024-02-13 03:22:04 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:04 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:04 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:04 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:04 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:04 --> Config Class Initialized
+INFO - 2024-02-13 03:22:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:04 --> URI Class Initialized
+INFO - 2024-02-13 03:22:04 --> Router Class Initialized
+INFO - 2024-02-13 03:22:04 --> Output Class Initialized
+INFO - 2024-02-13 03:22:04 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:04 --> Input Class Initialized
+INFO - 2024-02-13 03:22:04 --> Language Class Initialized
+INFO - 2024-02-13 03:22:04 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:04 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:04 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:04 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:04 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:22:04 --> Config Class Initialized
+INFO - 2024-02-13 03:22:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:22:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:22:04 --> URI Class Initialized
+INFO - 2024-02-13 03:22:04 --> Router Class Initialized
+INFO - 2024-02-13 03:22:04 --> Output Class Initialized
+INFO - 2024-02-13 03:22:04 --> Security Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:22:04 --> Input Class Initialized
+INFO - 2024-02-13 03:22:04 --> Language Class Initialized
+INFO - 2024-02-13 03:22:04 --> Loader Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:22:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:22:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:22:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:22:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:22:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:22:04 --> Pagination Class Initialized
+INFO - 2024-02-13 03:22:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:22:04 --> User Agent Class Initialized
+INFO - 2024-02-13 03:22:04 --> Controller Class Initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_files" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:22:04 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:22:04 --> Upload Class Initialized
+INFO - 2024-02-13 03:22:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:22:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:22:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:17 --> Config Class Initialized
+INFO - 2024-02-13 03:46:17 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:17 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:17 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:17 --> URI Class Initialized
+INFO - 2024-02-13 03:46:17 --> Router Class Initialized
+INFO - 2024-02-13 03:46:17 --> Output Class Initialized
+INFO - 2024-02-13 03:46:17 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:17 --> Input Class Initialized
+INFO - 2024-02-13 03:46:17 --> Language Class Initialized
+INFO - 2024-02-13 03:46:18 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:18 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:18 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:18 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:18 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:18 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:18 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:18 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:18 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:18 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:18 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:18 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:18 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:18 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 03:46:18 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_mapel.php
+INFO - 2024-02-13 03:46:18 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 03:46:18 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 03:46:18 --> Final output sent to browser
+DEBUG - 2024-02-13 03:46:18 --> Total execution time: 1.0024
+INFO - 2024-02-13 03:46:20 --> Config Class Initialized
+INFO - 2024-02-13 03:46:20 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:20 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:20 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:20 --> URI Class Initialized
+INFO - 2024-02-13 03:46:20 --> Router Class Initialized
+INFO - 2024-02-13 03:46:20 --> Output Class Initialized
+INFO - 2024-02-13 03:46:20 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:20 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:20 --> Input Class Initialized
+INFO - 2024-02-13 03:46:20 --> Language Class Initialized
+INFO - 2024-02-13 03:46:20 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:20 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:20 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:20 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:20 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:20 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:20 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:20 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:20 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:20 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:20 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:20 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:20 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:20 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:20 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:20 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:20 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:20 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:20 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:21 --> Config Class Initialized
+INFO - 2024-02-13 03:46:21 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:21 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:21 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:21 --> URI Class Initialized
+INFO - 2024-02-13 03:46:21 --> Router Class Initialized
+INFO - 2024-02-13 03:46:21 --> Output Class Initialized
+INFO - 2024-02-13 03:46:21 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:21 --> Input Class Initialized
+INFO - 2024-02-13 03:46:21 --> Language Class Initialized
+INFO - 2024-02-13 03:46:21 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:21 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:21 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:21 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:21 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:21 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:21 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:21 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:21 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:21 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:21 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:21 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:21 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:21 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:21 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:21 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:22 --> Config Class Initialized
+INFO - 2024-02-13 03:46:22 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:22 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:22 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:22 --> URI Class Initialized
+INFO - 2024-02-13 03:46:22 --> Router Class Initialized
+INFO - 2024-02-13 03:46:22 --> Output Class Initialized
+INFO - 2024-02-13 03:46:22 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:22 --> Input Class Initialized
+INFO - 2024-02-13 03:46:22 --> Language Class Initialized
+INFO - 2024-02-13 03:46:22 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:22 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:22 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:22 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:22 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:22 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:22 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:22 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:22 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:22 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:22 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:22 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:22 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:22 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:22 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:22 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:23 --> Config Class Initialized
+INFO - 2024-02-13 03:46:23 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:23 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:23 --> URI Class Initialized
+INFO - 2024-02-13 03:46:23 --> Router Class Initialized
+INFO - 2024-02-13 03:46:23 --> Output Class Initialized
+INFO - 2024-02-13 03:46:23 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:23 --> Input Class Initialized
+INFO - 2024-02-13 03:46:23 --> Language Class Initialized
+INFO - 2024-02-13 03:46:23 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:23 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:23 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:23 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:23 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:23 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:23 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:23 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:23 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:23 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:23 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:23 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:23 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:23 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:23 --> Config Class Initialized
+INFO - 2024-02-13 03:46:23 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:23 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:23 --> URI Class Initialized
+INFO - 2024-02-13 03:46:23 --> Router Class Initialized
+INFO - 2024-02-13 03:46:23 --> Output Class Initialized
+INFO - 2024-02-13 03:46:23 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:23 --> Input Class Initialized
+INFO - 2024-02-13 03:46:23 --> Language Class Initialized
+INFO - 2024-02-13 03:46:23 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:23 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:23 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:23 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:23 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:23 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:23 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:23 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:23 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:23 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:23 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:23 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:23 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:23 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:23 --> Config Class Initialized
+INFO - 2024-02-13 03:46:23 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:23 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:23 --> URI Class Initialized
+INFO - 2024-02-13 03:46:23 --> Router Class Initialized
+INFO - 2024-02-13 03:46:23 --> Output Class Initialized
+INFO - 2024-02-13 03:46:23 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:23 --> Input Class Initialized
+INFO - 2024-02-13 03:46:23 --> Language Class Initialized
+INFO - 2024-02-13 03:46:23 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:23 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:23 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:23 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:23 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:23 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:23 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:23 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:23 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:23 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:23 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:23 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:23 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:23 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:23 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:24 --> Config Class Initialized
+INFO - 2024-02-13 03:46:24 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:24 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:24 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:24 --> URI Class Initialized
+INFO - 2024-02-13 03:46:24 --> Router Class Initialized
+INFO - 2024-02-13 03:46:24 --> Output Class Initialized
+INFO - 2024-02-13 03:46:24 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:24 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:24 --> Input Class Initialized
+INFO - 2024-02-13 03:46:24 --> Language Class Initialized
+INFO - 2024-02-13 03:46:24 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:24 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:24 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:24 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:24 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:24 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:24 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:24 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:24 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:24 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:24 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:24 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:24 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:24 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:24 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:24 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:24 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:24 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:24 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:46:39 --> Config Class Initialized
+INFO - 2024-02-13 03:46:39 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:46:39 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:46:39 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:46:39 --> URI Class Initialized
+INFO - 2024-02-13 03:46:39 --> Router Class Initialized
+INFO - 2024-02-13 03:46:39 --> Output Class Initialized
+INFO - 2024-02-13 03:46:39 --> Security Class Initialized
+DEBUG - 2024-02-13 03:46:39 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:46:39 --> Input Class Initialized
+INFO - 2024-02-13 03:46:39 --> Language Class Initialized
+INFO - 2024-02-13 03:46:39 --> Loader Class Initialized
+INFO - 2024-02-13 03:46:39 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:46:39 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:46:39 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:46:39 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:46:39 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:46:39 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:46:39 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:46:39 --> Pagination Class Initialized
+INFO - 2024-02-13 03:46:39 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:46:39 --> User Agent Class Initialized
+INFO - 2024-02-13 03:46:39 --> Controller Class Initialized
+INFO - 2024-02-13 03:46:39 --> Model "M_files" initialized
+INFO - 2024-02-13 03:46:39 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:46:39 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:46:39 --> Upload Class Initialized
+INFO - 2024-02-13 03:46:39 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:46:39 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:46:39 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:47:00 --> Config Class Initialized
+INFO - 2024-02-13 03:47:00 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:47:00 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:47:00 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:47:00 --> URI Class Initialized
+INFO - 2024-02-13 03:47:00 --> Router Class Initialized
+INFO - 2024-02-13 03:47:00 --> Output Class Initialized
+INFO - 2024-02-13 03:47:00 --> Security Class Initialized
+DEBUG - 2024-02-13 03:47:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:47:00 --> Input Class Initialized
+INFO - 2024-02-13 03:47:00 --> Language Class Initialized
+INFO - 2024-02-13 03:47:00 --> Loader Class Initialized
+INFO - 2024-02-13 03:47:00 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:47:00 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:47:00 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:47:00 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:47:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:47:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:47:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:47:00 --> Pagination Class Initialized
+INFO - 2024-02-13 03:47:00 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:47:00 --> User Agent Class Initialized
+INFO - 2024-02-13 03:47:00 --> Controller Class Initialized
+INFO - 2024-02-13 03:47:00 --> Model "M_files" initialized
+INFO - 2024-02-13 03:47:00 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:47:00 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:47:00 --> Upload Class Initialized
+INFO - 2024-02-13 03:47:00 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:47:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:47:00 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:48:10 --> Config Class Initialized
+INFO - 2024-02-13 03:48:10 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:48:10 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:48:10 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:48:10 --> URI Class Initialized
+INFO - 2024-02-13 03:48:10 --> Router Class Initialized
+INFO - 2024-02-13 03:48:10 --> Output Class Initialized
+INFO - 2024-02-13 03:48:10 --> Security Class Initialized
+DEBUG - 2024-02-13 03:48:10 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:48:10 --> Input Class Initialized
+INFO - 2024-02-13 03:48:10 --> Language Class Initialized
+INFO - 2024-02-13 03:48:10 --> Loader Class Initialized
+INFO - 2024-02-13 03:48:10 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:48:10 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:48:10 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:48:10 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:48:10 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:48:10 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:48:10 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:48:10 --> Pagination Class Initialized
+INFO - 2024-02-13 03:48:10 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:48:10 --> User Agent Class Initialized
+INFO - 2024-02-13 03:48:10 --> Controller Class Initialized
+INFO - 2024-02-13 03:48:10 --> Model "M_files" initialized
+INFO - 2024-02-13 03:48:10 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:48:10 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:48:10 --> Upload Class Initialized
+INFO - 2024-02-13 03:48:10 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:48:10 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 03:48:10 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 03:48:10 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 03:48:10 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 03:48:10 --> Final output sent to browser
+DEBUG - 2024-02-13 03:48:10 --> Total execution time: 0.0632
+INFO - 2024-02-13 03:50:04 --> Config Class Initialized
+INFO - 2024-02-13 03:50:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:50:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:50:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:50:04 --> URI Class Initialized
+INFO - 2024-02-13 03:50:04 --> Router Class Initialized
+INFO - 2024-02-13 03:50:04 --> Output Class Initialized
+INFO - 2024-02-13 03:50:04 --> Security Class Initialized
+DEBUG - 2024-02-13 03:50:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:50:04 --> Input Class Initialized
+INFO - 2024-02-13 03:50:04 --> Language Class Initialized
+INFO - 2024-02-13 03:50:04 --> Loader Class Initialized
+INFO - 2024-02-13 03:50:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:50:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:50:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:50:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:50:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:50:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:50:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:50:04 --> Pagination Class Initialized
+INFO - 2024-02-13 03:50:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:50:04 --> User Agent Class Initialized
+INFO - 2024-02-13 03:50:04 --> Controller Class Initialized
+INFO - 2024-02-13 03:50:04 --> Model "M_files" initialized
+INFO - 2024-02-13 03:50:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:50:04 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:50:04 --> Upload Class Initialized
+INFO - 2024-02-13 03:50:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:50:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:50:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:50:05 --> Config Class Initialized
+INFO - 2024-02-13 03:50:05 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:50:05 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:50:05 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:50:05 --> URI Class Initialized
+INFO - 2024-02-13 03:50:05 --> Router Class Initialized
+INFO - 2024-02-13 03:50:05 --> Output Class Initialized
+INFO - 2024-02-13 03:50:05 --> Security Class Initialized
+DEBUG - 2024-02-13 03:50:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:50:05 --> Input Class Initialized
+INFO - 2024-02-13 03:50:05 --> Language Class Initialized
+INFO - 2024-02-13 03:50:05 --> Loader Class Initialized
+INFO - 2024-02-13 03:50:05 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:50:05 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:50:05 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:50:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:50:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:50:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:50:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:50:05 --> Pagination Class Initialized
+INFO - 2024-02-13 03:50:05 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:50:05 --> User Agent Class Initialized
+INFO - 2024-02-13 03:50:05 --> Controller Class Initialized
+INFO - 2024-02-13 03:50:05 --> Model "M_files" initialized
+INFO - 2024-02-13 03:50:05 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:50:05 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:50:05 --> Upload Class Initialized
+INFO - 2024-02-13 03:50:05 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:50:05 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:50:05 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:50:06 --> Config Class Initialized
+INFO - 2024-02-13 03:50:06 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:50:06 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:50:06 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:50:06 --> URI Class Initialized
+INFO - 2024-02-13 03:50:06 --> Router Class Initialized
+INFO - 2024-02-13 03:50:06 --> Output Class Initialized
+INFO - 2024-02-13 03:50:06 --> Security Class Initialized
+DEBUG - 2024-02-13 03:50:06 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:50:06 --> Input Class Initialized
+INFO - 2024-02-13 03:50:06 --> Language Class Initialized
+INFO - 2024-02-13 03:50:06 --> Loader Class Initialized
+INFO - 2024-02-13 03:50:06 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:50:06 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:50:06 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:50:06 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:50:06 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:50:06 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:50:06 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:50:06 --> Pagination Class Initialized
+INFO - 2024-02-13 03:50:06 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:50:06 --> User Agent Class Initialized
+INFO - 2024-02-13 03:50:06 --> Controller Class Initialized
+INFO - 2024-02-13 03:50:06 --> Model "M_files" initialized
+INFO - 2024-02-13 03:50:06 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:50:06 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:50:06 --> Upload Class Initialized
+INFO - 2024-02-13 03:50:06 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:50:06 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:50:06 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:50:07 --> Config Class Initialized
+INFO - 2024-02-13 03:50:07 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:50:07 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:50:07 --> URI Class Initialized
+INFO - 2024-02-13 03:50:07 --> Router Class Initialized
+INFO - 2024-02-13 03:50:07 --> Output Class Initialized
+INFO - 2024-02-13 03:50:07 --> Security Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:50:07 --> Input Class Initialized
+INFO - 2024-02-13 03:50:07 --> Language Class Initialized
+INFO - 2024-02-13 03:50:07 --> Loader Class Initialized
+INFO - 2024-02-13 03:50:07 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:50:07 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:50:07 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:50:07 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:50:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:50:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:50:07 --> Pagination Class Initialized
+INFO - 2024-02-13 03:50:07 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:50:07 --> User Agent Class Initialized
+INFO - 2024-02-13 03:50:07 --> Controller Class Initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_files" initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:50:07 --> Upload Class Initialized
+INFO - 2024-02-13 03:50:07 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:50:07 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:50:07 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:50:07 --> Config Class Initialized
+INFO - 2024-02-13 03:50:07 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:50:07 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:50:07 --> URI Class Initialized
+INFO - 2024-02-13 03:50:07 --> Router Class Initialized
+INFO - 2024-02-13 03:50:07 --> Output Class Initialized
+INFO - 2024-02-13 03:50:07 --> Security Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:50:07 --> Input Class Initialized
+INFO - 2024-02-13 03:50:07 --> Language Class Initialized
+INFO - 2024-02-13 03:50:07 --> Loader Class Initialized
+INFO - 2024-02-13 03:50:07 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:50:07 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:50:07 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:50:07 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:50:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:50:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:50:07 --> Pagination Class Initialized
+INFO - 2024-02-13 03:50:07 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:50:07 --> User Agent Class Initialized
+INFO - 2024-02-13 03:50:07 --> Controller Class Initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_files" initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:50:07 --> Upload Class Initialized
+INFO - 2024-02-13 03:50:07 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:50:07 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:50:07 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:50:07 --> Config Class Initialized
+INFO - 2024-02-13 03:50:07 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:50:07 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:50:07 --> URI Class Initialized
+INFO - 2024-02-13 03:50:07 --> Router Class Initialized
+INFO - 2024-02-13 03:50:07 --> Output Class Initialized
+INFO - 2024-02-13 03:50:07 --> Security Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:50:07 --> Input Class Initialized
+INFO - 2024-02-13 03:50:07 --> Language Class Initialized
+INFO - 2024-02-13 03:50:07 --> Loader Class Initialized
+INFO - 2024-02-13 03:50:07 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:50:07 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:50:07 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:50:07 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:50:07 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:50:07 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:50:07 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:50:07 --> Pagination Class Initialized
+INFO - 2024-02-13 03:50:07 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:50:07 --> User Agent Class Initialized
+INFO - 2024-02-13 03:50:07 --> Controller Class Initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_files" initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:50:07 --> Model "M_mapel" initialized
+INFO - 2024-02-13 03:50:07 --> Upload Class Initialized
+INFO - 2024-02-13 03:50:07 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:50:07 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:50:07 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 03:56:05 --> Config Class Initialized
+INFO - 2024-02-13 03:56:05 --> Hooks Class Initialized
+DEBUG - 2024-02-13 03:56:05 --> UTF-8 Support Enabled
+INFO - 2024-02-13 03:56:05 --> Utf8 Class Initialized
+INFO - 2024-02-13 03:56:05 --> URI Class Initialized
+INFO - 2024-02-13 03:56:05 --> Router Class Initialized
+INFO - 2024-02-13 03:56:05 --> Output Class Initialized
+INFO - 2024-02-13 03:56:05 --> Security Class Initialized
+DEBUG - 2024-02-13 03:56:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 03:56:05 --> Input Class Initialized
+INFO - 2024-02-13 03:56:05 --> Language Class Initialized
+INFO - 2024-02-13 03:56:05 --> Loader Class Initialized
+INFO - 2024-02-13 03:56:05 --> Helper loaded: url_helper
+INFO - 2024-02-13 03:56:05 --> Helper loaded: file_helper
+INFO - 2024-02-13 03:56:05 --> Helper loaded: form_helper
+INFO - 2024-02-13 03:56:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 03:56:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 03:56:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 03:56:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 03:56:05 --> Pagination Class Initialized
+INFO - 2024-02-13 03:56:05 --> XML-RPC Class Initialized
+INFO - 2024-02-13 03:56:05 --> User Agent Class Initialized
+INFO - 2024-02-13 03:56:05 --> Controller Class Initialized
+INFO - 2024-02-13 03:56:05 --> Model "M_files" initialized
+INFO - 2024-02-13 03:56:05 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 03:56:05 --> Upload Class Initialized
+INFO - 2024-02-13 03:56:05 --> Helper loaded: download_helper
+INFO - 2024-02-13 03:56:05 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 03:56:05 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 121
+INFO - 2024-02-13 04:00:38 --> Config Class Initialized
+INFO - 2024-02-13 04:00:38 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:38 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:38 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:38 --> URI Class Initialized
+INFO - 2024-02-13 04:00:38 --> Router Class Initialized
+INFO - 2024-02-13 04:00:38 --> Output Class Initialized
+INFO - 2024-02-13 04:00:38 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:38 --> Input Class Initialized
+INFO - 2024-02-13 04:00:38 --> Language Class Initialized
+INFO - 2024-02-13 04:00:38 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:38 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:38 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:38 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:38 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:38 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:38 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:38 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:38 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:38 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:38 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:38 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:38 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:38 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:38 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:00:40 --> Config Class Initialized
+INFO - 2024-02-13 04:00:40 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:40 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:40 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:40 --> URI Class Initialized
+INFO - 2024-02-13 04:00:40 --> Router Class Initialized
+INFO - 2024-02-13 04:00:40 --> Output Class Initialized
+INFO - 2024-02-13 04:00:40 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:40 --> Input Class Initialized
+INFO - 2024-02-13 04:00:40 --> Language Class Initialized
+INFO - 2024-02-13 04:00:40 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:40 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:40 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:40 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:40 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:40 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:40 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:40 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:40 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:40 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:40 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:40 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:40 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:40 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:00:41 --> Config Class Initialized
+INFO - 2024-02-13 04:00:41 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:41 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:41 --> URI Class Initialized
+INFO - 2024-02-13 04:00:41 --> Router Class Initialized
+INFO - 2024-02-13 04:00:41 --> Output Class Initialized
+INFO - 2024-02-13 04:00:41 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:41 --> Input Class Initialized
+INFO - 2024-02-13 04:00:41 --> Language Class Initialized
+INFO - 2024-02-13 04:00:41 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:41 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:41 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:41 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:41 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:41 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:41 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:41 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:41 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:41 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:41 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:41 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:41 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:41 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:41 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:41 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:00:41 --> Config Class Initialized
+INFO - 2024-02-13 04:00:41 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:41 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:41 --> URI Class Initialized
+INFO - 2024-02-13 04:00:41 --> Router Class Initialized
+INFO - 2024-02-13 04:00:41 --> Output Class Initialized
+INFO - 2024-02-13 04:00:41 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:41 --> Input Class Initialized
+INFO - 2024-02-13 04:00:41 --> Language Class Initialized
+INFO - 2024-02-13 04:00:41 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:41 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:41 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:41 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:41 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:41 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:41 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:41 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:41 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:41 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:41 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:41 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:41 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:41 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:41 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:41 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:00:41 --> Config Class Initialized
+INFO - 2024-02-13 04:00:41 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:41 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:41 --> URI Class Initialized
+INFO - 2024-02-13 04:00:41 --> Router Class Initialized
+INFO - 2024-02-13 04:00:41 --> Output Class Initialized
+INFO - 2024-02-13 04:00:41 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:41 --> Input Class Initialized
+INFO - 2024-02-13 04:00:41 --> Language Class Initialized
+INFO - 2024-02-13 04:00:41 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:41 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:41 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:41 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:41 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:41 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:41 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:41 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:41 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:41 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:41 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:41 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:41 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:41 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:41 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:41 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:41 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:41 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:00:42 --> Config Class Initialized
+INFO - 2024-02-13 04:00:42 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:42 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:42 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:42 --> URI Class Initialized
+INFO - 2024-02-13 04:00:42 --> Router Class Initialized
+INFO - 2024-02-13 04:00:42 --> Output Class Initialized
+INFO - 2024-02-13 04:00:42 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:42 --> Input Class Initialized
+INFO - 2024-02-13 04:00:42 --> Language Class Initialized
+INFO - 2024-02-13 04:00:42 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:42 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:42 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:42 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:42 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:42 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:42 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:42 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:42 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:42 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:42 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:42 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:42 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:42 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:42 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:42 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:00:44 --> Config Class Initialized
+INFO - 2024-02-13 04:00:44 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:00:44 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:00:44 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:00:44 --> URI Class Initialized
+INFO - 2024-02-13 04:00:44 --> Router Class Initialized
+INFO - 2024-02-13 04:00:44 --> Output Class Initialized
+INFO - 2024-02-13 04:00:44 --> Security Class Initialized
+DEBUG - 2024-02-13 04:00:44 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:00:44 --> Input Class Initialized
+INFO - 2024-02-13 04:00:44 --> Language Class Initialized
+INFO - 2024-02-13 04:00:44 --> Loader Class Initialized
+INFO - 2024-02-13 04:00:44 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:00:44 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:00:44 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:00:44 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:00:44 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:00:44 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:00:44 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:00:44 --> Pagination Class Initialized
+INFO - 2024-02-13 04:00:44 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:00:44 --> User Agent Class Initialized
+INFO - 2024-02-13 04:00:44 --> Controller Class Initialized
+INFO - 2024-02-13 04:00:44 --> Model "M_files" initialized
+INFO - 2024-02-13 04:00:44 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:00:44 --> Upload Class Initialized
+INFO - 2024-02-13 04:00:44 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:00:44 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:00:44 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 119
+INFO - 2024-02-13 04:05:13 --> Config Class Initialized
+INFO - 2024-02-13 04:05:13 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:05:13 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:05:13 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:05:13 --> URI Class Initialized
+INFO - 2024-02-13 04:05:13 --> Router Class Initialized
+INFO - 2024-02-13 04:05:13 --> Output Class Initialized
+INFO - 2024-02-13 04:05:13 --> Security Class Initialized
+DEBUG - 2024-02-13 04:05:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:05:13 --> Input Class Initialized
+INFO - 2024-02-13 04:05:13 --> Language Class Initialized
+INFO - 2024-02-13 04:05:13 --> Loader Class Initialized
+INFO - 2024-02-13 04:05:13 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:05:13 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:05:13 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:05:13 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:05:13 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:05:13 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:05:13 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:05:13 --> Pagination Class Initialized
+INFO - 2024-02-13 04:05:13 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:05:13 --> User Agent Class Initialized
+INFO - 2024-02-13 04:05:13 --> Controller Class Initialized
+INFO - 2024-02-13 04:05:13 --> Model "M_files" initialized
+INFO - 2024-02-13 04:05:13 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:05:13 --> Upload Class Initialized
+INFO - 2024-02-13 04:05:13 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:05:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:05:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:05:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:05:13 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:05:13 --> Final output sent to browser
+DEBUG - 2024-02-13 04:05:13 --> Total execution time: 0.0542
+INFO - 2024-02-13 04:05:27 --> Config Class Initialized
+INFO - 2024-02-13 04:05:27 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:05:27 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:05:27 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:05:27 --> URI Class Initialized
+INFO - 2024-02-13 04:05:27 --> Router Class Initialized
+INFO - 2024-02-13 04:05:27 --> Output Class Initialized
+INFO - 2024-02-13 04:05:27 --> Security Class Initialized
+DEBUG - 2024-02-13 04:05:27 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:05:27 --> Input Class Initialized
+INFO - 2024-02-13 04:05:27 --> Language Class Initialized
+INFO - 2024-02-13 04:05:27 --> Loader Class Initialized
+INFO - 2024-02-13 04:05:27 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:05:27 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:05:27 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:05:27 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:05:27 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:05:27 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:05:27 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:05:27 --> Pagination Class Initialized
+INFO - 2024-02-13 04:05:27 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:05:27 --> User Agent Class Initialized
+INFO - 2024-02-13 04:05:27 --> Controller Class Initialized
+INFO - 2024-02-13 04:05:27 --> Model "M_files" initialized
+INFO - 2024-02-13 04:05:27 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:05:27 --> Upload Class Initialized
+INFO - 2024-02-13 04:05:27 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:05:27 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:05:27 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:05:27 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:05:27 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:05:27 --> Final output sent to browser
+DEBUG - 2024-02-13 04:05:27 --> Total execution time: 0.0532
+INFO - 2024-02-13 04:06:00 --> Config Class Initialized
+INFO - 2024-02-13 04:06:00 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:06:00 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:06:00 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:06:00 --> URI Class Initialized
+INFO - 2024-02-13 04:06:00 --> Router Class Initialized
+INFO - 2024-02-13 04:06:00 --> Output Class Initialized
+INFO - 2024-02-13 04:06:00 --> Security Class Initialized
+DEBUG - 2024-02-13 04:06:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:06:00 --> Input Class Initialized
+INFO - 2024-02-13 04:06:00 --> Language Class Initialized
+INFO - 2024-02-13 04:06:00 --> Loader Class Initialized
+INFO - 2024-02-13 04:06:00 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:06:00 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:06:00 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:06:00 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:06:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:06:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:06:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:06:00 --> Pagination Class Initialized
+INFO - 2024-02-13 04:06:00 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:06:00 --> User Agent Class Initialized
+INFO - 2024-02-13 04:06:00 --> Controller Class Initialized
+INFO - 2024-02-13 04:06:00 --> Model "M_files" initialized
+INFO - 2024-02-13 04:06:00 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:06:00 --> Upload Class Initialized
+INFO - 2024-02-13 04:06:00 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:06:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 53
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+ERROR - 2024-02-13 04:06:00 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 167
+INFO - 2024-02-13 04:06:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:06:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:06:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:06:00 --> Final output sent to browser
+DEBUG - 2024-02-13 04:06:00 --> Total execution time: 0.0960
+INFO - 2024-02-13 04:06:32 --> Config Class Initialized
+INFO - 2024-02-13 04:06:32 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:06:32 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:06:32 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:06:32 --> URI Class Initialized
+INFO - 2024-02-13 04:06:32 --> Router Class Initialized
+INFO - 2024-02-13 04:06:32 --> Output Class Initialized
+INFO - 2024-02-13 04:06:32 --> Security Class Initialized
+DEBUG - 2024-02-13 04:06:32 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:06:32 --> Input Class Initialized
+INFO - 2024-02-13 04:06:32 --> Language Class Initialized
+INFO - 2024-02-13 04:06:32 --> Loader Class Initialized
+INFO - 2024-02-13 04:06:32 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:06:32 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:06:32 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:06:32 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:06:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:06:32 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:06:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:06:32 --> Pagination Class Initialized
+INFO - 2024-02-13 04:06:32 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:06:32 --> User Agent Class Initialized
+INFO - 2024-02-13 04:06:32 --> Controller Class Initialized
+INFO - 2024-02-13 04:06:32 --> Model "M_files" initialized
+INFO - 2024-02-13 04:06:32 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:06:32 --> Upload Class Initialized
+INFO - 2024-02-13 04:06:32 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:06:32 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+ERROR - 2024-02-13 04:06:32 --> Severity: Notice --> Undefined index: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 164
+INFO - 2024-02-13 04:06:32 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:06:32 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:06:32 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:06:32 --> Final output sent to browser
+DEBUG - 2024-02-13 04:06:32 --> Total execution time: 0.0635
+INFO - 2024-02-13 04:08:29 --> Config Class Initialized
+INFO - 2024-02-13 04:08:29 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:08:29 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:08:29 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:08:29 --> URI Class Initialized
+INFO - 2024-02-13 04:08:29 --> Router Class Initialized
+INFO - 2024-02-13 04:08:29 --> Output Class Initialized
+INFO - 2024-02-13 04:08:29 --> Security Class Initialized
+DEBUG - 2024-02-13 04:08:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:08:29 --> Input Class Initialized
+INFO - 2024-02-13 04:08:29 --> Language Class Initialized
+INFO - 2024-02-13 04:08:29 --> Loader Class Initialized
+INFO - 2024-02-13 04:08:29 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:08:29 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:08:29 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:08:29 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:08:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:08:29 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:08:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:08:29 --> Pagination Class Initialized
+INFO - 2024-02-13 04:08:29 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:08:29 --> User Agent Class Initialized
+INFO - 2024-02-13 04:08:29 --> Controller Class Initialized
+INFO - 2024-02-13 04:08:29 --> Model "M_files" initialized
+INFO - 2024-02-13 04:08:29 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:08:29 --> Upload Class Initialized
+INFO - 2024-02-13 04:08:29 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:08:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:08:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:08:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:08:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:08:29 --> Final output sent to browser
+DEBUG - 2024-02-13 04:08:29 --> Total execution time: 0.0518
+INFO - 2024-02-13 04:08:36 --> Config Class Initialized
+INFO - 2024-02-13 04:08:36 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:08:36 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:08:36 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:08:36 --> URI Class Initialized
+INFO - 2024-02-13 04:08:36 --> Router Class Initialized
+INFO - 2024-02-13 04:08:36 --> Output Class Initialized
+INFO - 2024-02-13 04:08:36 --> Security Class Initialized
+DEBUG - 2024-02-13 04:08:36 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:08:36 --> Input Class Initialized
+INFO - 2024-02-13 04:08:36 --> Language Class Initialized
+INFO - 2024-02-13 04:08:36 --> Loader Class Initialized
+INFO - 2024-02-13 04:08:36 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:08:36 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:08:36 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:08:36 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:08:36 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:08:36 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:08:36 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:08:36 --> Pagination Class Initialized
+INFO - 2024-02-13 04:08:36 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:08:36 --> User Agent Class Initialized
+INFO - 2024-02-13 04:08:36 --> Controller Class Initialized
+INFO - 2024-02-13 04:08:36 --> Model "M_files" initialized
+INFO - 2024-02-13 04:08:36 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:08:36 --> Upload Class Initialized
+INFO - 2024-02-13 04:08:36 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:08:36 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:08:36 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:08:36 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:08:36 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:08:36 --> Final output sent to browser
+DEBUG - 2024-02-13 04:08:36 --> Total execution time: 0.0631
+INFO - 2024-02-13 04:08:40 --> Config Class Initialized
+INFO - 2024-02-13 04:08:40 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:08:40 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:08:40 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:08:40 --> URI Class Initialized
+INFO - 2024-02-13 04:08:40 --> Router Class Initialized
+INFO - 2024-02-13 04:08:40 --> Output Class Initialized
+INFO - 2024-02-13 04:08:40 --> Security Class Initialized
+DEBUG - 2024-02-13 04:08:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:08:40 --> Input Class Initialized
+INFO - 2024-02-13 04:08:40 --> Language Class Initialized
+INFO - 2024-02-13 04:08:40 --> Loader Class Initialized
+INFO - 2024-02-13 04:08:40 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:08:40 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:08:40 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:08:40 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:08:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:08:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:08:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:08:40 --> Pagination Class Initialized
+INFO - 2024-02-13 04:08:40 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:08:40 --> User Agent Class Initialized
+INFO - 2024-02-13 04:08:40 --> Controller Class Initialized
+INFO - 2024-02-13 04:08:40 --> Model "M_files" initialized
+INFO - 2024-02-13 04:08:40 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:08:40 --> Upload Class Initialized
+INFO - 2024-02-13 04:08:40 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:08:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:08:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:08:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:08:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:08:40 --> Final output sent to browser
+DEBUG - 2024-02-13 04:08:40 --> Total execution time: 0.0647
+INFO - 2024-02-13 04:09:00 --> Config Class Initialized
+INFO - 2024-02-13 04:09:00 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:09:00 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:09:00 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:09:00 --> URI Class Initialized
+INFO - 2024-02-13 04:09:00 --> Router Class Initialized
+INFO - 2024-02-13 04:09:00 --> Output Class Initialized
+INFO - 2024-02-13 04:09:00 --> Security Class Initialized
+DEBUG - 2024-02-13 04:09:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:09:00 --> Input Class Initialized
+INFO - 2024-02-13 04:09:00 --> Language Class Initialized
+INFO - 2024-02-13 04:09:00 --> Loader Class Initialized
+INFO - 2024-02-13 04:09:00 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:09:00 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:09:00 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:09:00 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:09:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:09:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:09:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:09:00 --> Pagination Class Initialized
+INFO - 2024-02-13 04:09:00 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:09:00 --> User Agent Class Initialized
+INFO - 2024-02-13 04:09:00 --> Controller Class Initialized
+INFO - 2024-02-13 04:09:00 --> Model "M_files" initialized
+INFO - 2024-02-13 04:09:00 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:09:00 --> Upload Class Initialized
+INFO - 2024-02-13 04:09:00 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:09:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:09:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:09:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:09:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:09:00 --> Final output sent to browser
+DEBUG - 2024-02-13 04:09:00 --> Total execution time: 0.0664
+INFO - 2024-02-13 04:15:59 --> Config Class Initialized
+INFO - 2024-02-13 04:15:59 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:15:59 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:15:59 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:15:59 --> URI Class Initialized
+INFO - 2024-02-13 04:15:59 --> Router Class Initialized
+INFO - 2024-02-13 04:15:59 --> Output Class Initialized
+INFO - 2024-02-13 04:15:59 --> Security Class Initialized
+DEBUG - 2024-02-13 04:15:59 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:15:59 --> Input Class Initialized
+INFO - 2024-02-13 04:15:59 --> Language Class Initialized
+INFO - 2024-02-13 04:15:59 --> Loader Class Initialized
+INFO - 2024-02-13 04:15:59 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:15:59 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:15:59 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:15:59 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:15:59 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:15:59 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:15:59 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:15:59 --> Pagination Class Initialized
+INFO - 2024-02-13 04:15:59 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:15:59 --> User Agent Class Initialized
+INFO - 2024-02-13 04:15:59 --> Controller Class Initialized
+INFO - 2024-02-13 04:15:59 --> Model "M_files" initialized
+INFO - 2024-02-13 04:15:59 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:15:59 --> Upload Class Initialized
+INFO - 2024-02-13 04:15:59 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:15:59 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:15:59 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 195
+INFO - 2024-02-13 04:16:04 --> Config Class Initialized
+INFO - 2024-02-13 04:16:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:16:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:16:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:16:04 --> URI Class Initialized
+INFO - 2024-02-13 04:16:04 --> Router Class Initialized
+INFO - 2024-02-13 04:16:04 --> Output Class Initialized
+INFO - 2024-02-13 04:16:04 --> Security Class Initialized
+DEBUG - 2024-02-13 04:16:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:16:04 --> Input Class Initialized
+INFO - 2024-02-13 04:16:04 --> Language Class Initialized
+INFO - 2024-02-13 04:16:04 --> Loader Class Initialized
+INFO - 2024-02-13 04:16:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:16:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:16:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:16:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:16:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:16:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:16:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:16:04 --> Pagination Class Initialized
+INFO - 2024-02-13 04:16:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:16:04 --> User Agent Class Initialized
+INFO - 2024-02-13 04:16:04 --> Controller Class Initialized
+INFO - 2024-02-13 04:16:04 --> Model "M_files" initialized
+INFO - 2024-02-13 04:16:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:16:04 --> Upload Class Initialized
+INFO - 2024-02-13 04:16:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:16:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:16:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 195
+INFO - 2024-02-13 04:16:05 --> Config Class Initialized
+INFO - 2024-02-13 04:16:05 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:16:05 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:16:05 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:16:05 --> URI Class Initialized
+INFO - 2024-02-13 04:16:05 --> Router Class Initialized
+INFO - 2024-02-13 04:16:05 --> Output Class Initialized
+INFO - 2024-02-13 04:16:05 --> Security Class Initialized
+DEBUG - 2024-02-13 04:16:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:16:05 --> Input Class Initialized
+INFO - 2024-02-13 04:16:05 --> Language Class Initialized
+INFO - 2024-02-13 04:16:05 --> Loader Class Initialized
+INFO - 2024-02-13 04:16:05 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:16:05 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:16:05 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:16:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:16:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:16:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:16:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:16:05 --> Pagination Class Initialized
+INFO - 2024-02-13 04:16:05 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:16:05 --> User Agent Class Initialized
+INFO - 2024-02-13 04:16:05 --> Controller Class Initialized
+INFO - 2024-02-13 04:16:05 --> Model "M_files" initialized
+INFO - 2024-02-13 04:16:05 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:16:05 --> Upload Class Initialized
+INFO - 2024-02-13 04:16:05 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:16:05 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:16:05 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 195
+INFO - 2024-02-13 04:16:05 --> Config Class Initialized
+INFO - 2024-02-13 04:16:05 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:16:05 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:16:05 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:16:05 --> URI Class Initialized
+INFO - 2024-02-13 04:16:05 --> Router Class Initialized
+INFO - 2024-02-13 04:16:05 --> Output Class Initialized
+INFO - 2024-02-13 04:16:05 --> Security Class Initialized
+DEBUG - 2024-02-13 04:16:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:16:05 --> Input Class Initialized
+INFO - 2024-02-13 04:16:05 --> Language Class Initialized
+INFO - 2024-02-13 04:16:05 --> Loader Class Initialized
+INFO - 2024-02-13 04:16:05 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:16:05 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:16:05 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:16:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:16:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:16:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:16:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:16:05 --> Pagination Class Initialized
+INFO - 2024-02-13 04:16:05 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:16:05 --> User Agent Class Initialized
+INFO - 2024-02-13 04:16:05 --> Controller Class Initialized
+INFO - 2024-02-13 04:16:05 --> Model "M_files" initialized
+INFO - 2024-02-13 04:16:05 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:16:05 --> Upload Class Initialized
+INFO - 2024-02-13 04:16:05 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:16:05 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:16:05 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 195
+INFO - 2024-02-13 04:16:16 --> Config Class Initialized
+INFO - 2024-02-13 04:16:16 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:16:16 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:16:16 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:16:16 --> URI Class Initialized
+INFO - 2024-02-13 04:16:16 --> Router Class Initialized
+INFO - 2024-02-13 04:16:16 --> Output Class Initialized
+INFO - 2024-02-13 04:16:16 --> Security Class Initialized
+DEBUG - 2024-02-13 04:16:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:16:16 --> Input Class Initialized
+INFO - 2024-02-13 04:16:16 --> Language Class Initialized
+INFO - 2024-02-13 04:16:16 --> Loader Class Initialized
+INFO - 2024-02-13 04:16:16 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:16:16 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:16:16 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:16:16 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:16:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:16:16 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:16:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:16:16 --> Pagination Class Initialized
+INFO - 2024-02-13 04:16:16 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:16:16 --> User Agent Class Initialized
+INFO - 2024-02-13 04:16:16 --> Controller Class Initialized
+INFO - 2024-02-13 04:16:16 --> Model "M_files" initialized
+INFO - 2024-02-13 04:16:16 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:16:16 --> Upload Class Initialized
+INFO - 2024-02-13 04:16:16 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:16:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:16:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:16:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:16:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:16:16 --> Final output sent to browser
+DEBUG - 2024-02-13 04:16:16 --> Total execution time: 0.0666
+INFO - 2024-02-13 04:19:15 --> Config Class Initialized
+INFO - 2024-02-13 04:19:15 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:15 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:15 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:15 --> URI Class Initialized
+INFO - 2024-02-13 04:19:15 --> Router Class Initialized
+INFO - 2024-02-13 04:19:15 --> Output Class Initialized
+INFO - 2024-02-13 04:19:15 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:15 --> Input Class Initialized
+INFO - 2024-02-13 04:19:15 --> Language Class Initialized
+INFO - 2024-02-13 04:19:15 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:15 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:15 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:15 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:15 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:15 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:15 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:15 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:15 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:15 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:15 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:15 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:15 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:15 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:15 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:19 --> Config Class Initialized
+INFO - 2024-02-13 04:19:19 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:19 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:19 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:19 --> URI Class Initialized
+INFO - 2024-02-13 04:19:19 --> Router Class Initialized
+INFO - 2024-02-13 04:19:19 --> Output Class Initialized
+INFO - 2024-02-13 04:19:19 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:19 --> Input Class Initialized
+INFO - 2024-02-13 04:19:19 --> Language Class Initialized
+INFO - 2024-02-13 04:19:19 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:19 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:19 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:19 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:19 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:19 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:19 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:19 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:19 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:19 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:19 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:19 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:19 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:19 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:19 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:21 --> Config Class Initialized
+INFO - 2024-02-13 04:19:21 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:21 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:21 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:21 --> URI Class Initialized
+INFO - 2024-02-13 04:19:21 --> Router Class Initialized
+INFO - 2024-02-13 04:19:21 --> Output Class Initialized
+INFO - 2024-02-13 04:19:21 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:21 --> Input Class Initialized
+INFO - 2024-02-13 04:19:21 --> Language Class Initialized
+INFO - 2024-02-13 04:19:21 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:21 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:21 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:21 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:21 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:21 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:21 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:21 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:21 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:21 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:21 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:21 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:21 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:21 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:21 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:21 --> Config Class Initialized
+INFO - 2024-02-13 04:19:21 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:21 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:21 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:21 --> URI Class Initialized
+INFO - 2024-02-13 04:19:21 --> Router Class Initialized
+INFO - 2024-02-13 04:19:21 --> Output Class Initialized
+INFO - 2024-02-13 04:19:21 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:21 --> Input Class Initialized
+INFO - 2024-02-13 04:19:21 --> Language Class Initialized
+INFO - 2024-02-13 04:19:21 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:21 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:21 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:21 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:21 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:21 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:21 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:21 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:21 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:21 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:21 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:21 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:21 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:21 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:21 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:21 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:22 --> Config Class Initialized
+INFO - 2024-02-13 04:19:22 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:22 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:22 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:22 --> URI Class Initialized
+INFO - 2024-02-13 04:19:22 --> Router Class Initialized
+INFO - 2024-02-13 04:19:22 --> Output Class Initialized
+INFO - 2024-02-13 04:19:22 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:22 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:22 --> Input Class Initialized
+INFO - 2024-02-13 04:19:22 --> Language Class Initialized
+INFO - 2024-02-13 04:19:22 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:22 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:22 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:22 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:22 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:22 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:22 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:22 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:22 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:22 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:22 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:22 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:22 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:22 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:22 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:23 --> Config Class Initialized
+INFO - 2024-02-13 04:19:23 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:23 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:23 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:23 --> URI Class Initialized
+INFO - 2024-02-13 04:19:23 --> Router Class Initialized
+INFO - 2024-02-13 04:19:23 --> Output Class Initialized
+INFO - 2024-02-13 04:19:23 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:23 --> Input Class Initialized
+INFO - 2024-02-13 04:19:23 --> Language Class Initialized
+INFO - 2024-02-13 04:19:23 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:23 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:23 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:23 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:23 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:23 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:23 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:23 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:23 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:23 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:23 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:23 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:23 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:23 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:23 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:23 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:23 --> Config Class Initialized
+INFO - 2024-02-13 04:19:23 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:23 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:23 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:23 --> URI Class Initialized
+INFO - 2024-02-13 04:19:23 --> Router Class Initialized
+INFO - 2024-02-13 04:19:23 --> Output Class Initialized
+INFO - 2024-02-13 04:19:23 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:23 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:23 --> Input Class Initialized
+INFO - 2024-02-13 04:19:23 --> Language Class Initialized
+INFO - 2024-02-13 04:19:23 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:23 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:23 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:23 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:23 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:23 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:23 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:23 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:23 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:23 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:23 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:23 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:23 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:23 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:23 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:23 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:23 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:23 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:19:33 --> Config Class Initialized
+INFO - 2024-02-13 04:19:33 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:19:33 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:19:33 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:19:33 --> URI Class Initialized
+INFO - 2024-02-13 04:19:33 --> Router Class Initialized
+INFO - 2024-02-13 04:19:33 --> Output Class Initialized
+INFO - 2024-02-13 04:19:33 --> Security Class Initialized
+DEBUG - 2024-02-13 04:19:33 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:19:33 --> Input Class Initialized
+INFO - 2024-02-13 04:19:33 --> Language Class Initialized
+INFO - 2024-02-13 04:19:33 --> Loader Class Initialized
+INFO - 2024-02-13 04:19:33 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:19:33 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:19:33 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:19:33 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:19:33 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:19:33 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:19:33 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:19:33 --> Pagination Class Initialized
+INFO - 2024-02-13 04:19:33 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:19:33 --> User Agent Class Initialized
+INFO - 2024-02-13 04:19:33 --> Controller Class Initialized
+INFO - 2024-02-13 04:19:33 --> Model "M_files" initialized
+INFO - 2024-02-13 04:19:33 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:19:33 --> Upload Class Initialized
+INFO - 2024-02-13 04:19:33 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:19:33 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:19:33 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:20:05 --> Config Class Initialized
+INFO - 2024-02-13 04:20:05 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:20:05 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:20:05 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:20:05 --> URI Class Initialized
+INFO - 2024-02-13 04:20:05 --> Router Class Initialized
+INFO - 2024-02-13 04:20:05 --> Output Class Initialized
+INFO - 2024-02-13 04:20:05 --> Security Class Initialized
+DEBUG - 2024-02-13 04:20:05 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:20:05 --> Input Class Initialized
+INFO - 2024-02-13 04:20:05 --> Language Class Initialized
+INFO - 2024-02-13 04:20:05 --> Loader Class Initialized
+INFO - 2024-02-13 04:20:05 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:20:05 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:20:05 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:20:05 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:20:05 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:20:05 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:20:05 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:20:05 --> Pagination Class Initialized
+INFO - 2024-02-13 04:20:05 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:20:05 --> User Agent Class Initialized
+INFO - 2024-02-13 04:20:05 --> Controller Class Initialized
+INFO - 2024-02-13 04:20:05 --> Model "M_files" initialized
+INFO - 2024-02-13 04:20:05 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:20:05 --> Upload Class Initialized
+INFO - 2024-02-13 04:20:05 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:20:05 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:20:05 --> Severity: error --> Exception: Call to a member function result_array() on string C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:20:21 --> Config Class Initialized
+INFO - 2024-02-13 04:20:21 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:20:21 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:20:21 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:20:21 --> URI Class Initialized
+INFO - 2024-02-13 04:20:21 --> Router Class Initialized
+INFO - 2024-02-13 04:20:21 --> Output Class Initialized
+INFO - 2024-02-13 04:20:21 --> Security Class Initialized
+DEBUG - 2024-02-13 04:20:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:20:21 --> Input Class Initialized
+INFO - 2024-02-13 04:20:21 --> Language Class Initialized
+INFO - 2024-02-13 04:20:21 --> Loader Class Initialized
+INFO - 2024-02-13 04:20:21 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:20:21 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:20:21 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:20:21 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:20:21 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:20:21 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:20:21 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:20:21 --> Pagination Class Initialized
+INFO - 2024-02-13 04:20:21 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:20:21 --> User Agent Class Initialized
+INFO - 2024-02-13 04:20:21 --> Controller Class Initialized
+INFO - 2024-02-13 04:20:21 --> Model "M_mapel" initialized
+INFO - 2024-02-13 04:20:21 --> Config Class Initialized
+INFO - 2024-02-13 04:20:21 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:20:21 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:20:21 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:20:21 --> URI Class Initialized
+INFO - 2024-02-13 04:20:21 --> Router Class Initialized
+INFO - 2024-02-13 04:20:21 --> Output Class Initialized
+INFO - 2024-02-13 04:20:21 --> Security Class Initialized
+DEBUG - 2024-02-13 04:20:21 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:20:21 --> Input Class Initialized
+INFO - 2024-02-13 04:20:21 --> Language Class Initialized
+INFO - 2024-02-13 04:20:22 --> Loader Class Initialized
+INFO - 2024-02-13 04:20:22 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:20:22 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:20:22 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:20:22 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:20:22 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:20:22 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:20:22 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:20:22 --> Pagination Class Initialized
+INFO - 2024-02-13 04:20:22 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:20:22 --> User Agent Class Initialized
+INFO - 2024-02-13 04:20:22 --> Controller Class Initialized
+INFO - 2024-02-13 04:20:22 --> Model "M_login" initialized
+INFO - 2024-02-13 04:20:22 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/v_login.php
+INFO - 2024-02-13 04:20:22 --> Final output sent to browser
+DEBUG - 2024-02-13 04:20:22 --> Total execution time: 0.9189
+INFO - 2024-02-13 04:26:02 --> Config Class Initialized
+INFO - 2024-02-13 04:26:02 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:26:02 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:26:02 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:26:02 --> URI Class Initialized
+INFO - 2024-02-13 04:26:02 --> Router Class Initialized
+INFO - 2024-02-13 04:26:02 --> Output Class Initialized
+INFO - 2024-02-13 04:26:02 --> Security Class Initialized
+DEBUG - 2024-02-13 04:26:02 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:26:02 --> Input Class Initialized
+INFO - 2024-02-13 04:26:02 --> Language Class Initialized
+INFO - 2024-02-13 04:26:02 --> Loader Class Initialized
+INFO - 2024-02-13 04:26:02 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:26:02 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:26:02 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:26:02 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:26:02 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:26:02 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:26:02 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:26:02 --> Pagination Class Initialized
+INFO - 2024-02-13 04:26:02 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:26:02 --> User Agent Class Initialized
+INFO - 2024-02-13 04:26:02 --> Controller Class Initialized
+INFO - 2024-02-13 04:26:02 --> Model "M_files" initialized
+INFO - 2024-02-13 04:26:02 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:26:02 --> Upload Class Initialized
+INFO - 2024-02-13 04:26:02 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:26:02 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:26:02 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 195
+INFO - 2024-02-13 04:26:34 --> Config Class Initialized
+INFO - 2024-02-13 04:26:34 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:26:34 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:26:34 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:26:34 --> URI Class Initialized
+INFO - 2024-02-13 04:26:34 --> Router Class Initialized
+INFO - 2024-02-13 04:26:34 --> Output Class Initialized
+INFO - 2024-02-13 04:26:34 --> Security Class Initialized
+DEBUG - 2024-02-13 04:26:34 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:26:34 --> Input Class Initialized
+INFO - 2024-02-13 04:26:34 --> Language Class Initialized
+INFO - 2024-02-13 04:26:34 --> Loader Class Initialized
+INFO - 2024-02-13 04:26:34 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:26:34 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:26:34 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:26:34 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:26:34 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:26:34 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:26:34 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:26:34 --> Pagination Class Initialized
+INFO - 2024-02-13 04:26:34 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:26:34 --> User Agent Class Initialized
+INFO - 2024-02-13 04:26:34 --> Controller Class Initialized
+INFO - 2024-02-13 04:26:34 --> Model "M_files" initialized
+INFO - 2024-02-13 04:26:34 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:26:34 --> Upload Class Initialized
+INFO - 2024-02-13 04:26:34 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:26:34 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:26:34 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 195
+INFO - 2024-02-13 04:29:51 --> Config Class Initialized
+INFO - 2024-02-13 04:29:51 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:29:51 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:29:51 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:29:51 --> URI Class Initialized
+INFO - 2024-02-13 04:29:51 --> Router Class Initialized
+INFO - 2024-02-13 04:29:51 --> Output Class Initialized
+INFO - 2024-02-13 04:29:51 --> Security Class Initialized
+DEBUG - 2024-02-13 04:29:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:29:51 --> Input Class Initialized
+INFO - 2024-02-13 04:29:51 --> Language Class Initialized
+INFO - 2024-02-13 04:29:51 --> Loader Class Initialized
+INFO - 2024-02-13 04:29:51 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:29:51 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:29:51 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:29:51 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:29:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:29:51 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:29:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:29:51 --> Pagination Class Initialized
+INFO - 2024-02-13 04:29:51 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:29:51 --> User Agent Class Initialized
+INFO - 2024-02-13 04:29:51 --> Controller Class Initialized
+INFO - 2024-02-13 04:29:51 --> Model "M_files" initialized
+INFO - 2024-02-13 04:29:51 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:29:51 --> Upload Class Initialized
+INFO - 2024-02-13 04:29:51 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:29:51 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:29:51 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:29:53 --> Config Class Initialized
+INFO - 2024-02-13 04:29:53 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:29:53 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:29:53 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:29:53 --> URI Class Initialized
+INFO - 2024-02-13 04:29:53 --> Router Class Initialized
+INFO - 2024-02-13 04:29:53 --> Output Class Initialized
+INFO - 2024-02-13 04:29:53 --> Security Class Initialized
+DEBUG - 2024-02-13 04:29:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:29:53 --> Input Class Initialized
+INFO - 2024-02-13 04:29:53 --> Language Class Initialized
+INFO - 2024-02-13 04:29:53 --> Loader Class Initialized
+INFO - 2024-02-13 04:29:53 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:29:53 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:29:53 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:29:53 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:29:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:29:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:29:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:29:53 --> Pagination Class Initialized
+INFO - 2024-02-13 04:29:53 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:29:53 --> User Agent Class Initialized
+INFO - 2024-02-13 04:29:53 --> Controller Class Initialized
+INFO - 2024-02-13 04:29:53 --> Model "M_files" initialized
+INFO - 2024-02-13 04:29:53 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:29:53 --> Upload Class Initialized
+INFO - 2024-02-13 04:29:53 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:29:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:29:53 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:29:58 --> Config Class Initialized
+INFO - 2024-02-13 04:29:58 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:29:58 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:29:58 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:29:58 --> URI Class Initialized
+INFO - 2024-02-13 04:29:58 --> Router Class Initialized
+INFO - 2024-02-13 04:29:58 --> Output Class Initialized
+INFO - 2024-02-13 04:29:58 --> Security Class Initialized
+DEBUG - 2024-02-13 04:29:58 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:29:58 --> Input Class Initialized
+INFO - 2024-02-13 04:29:58 --> Language Class Initialized
+INFO - 2024-02-13 04:29:58 --> Loader Class Initialized
+INFO - 2024-02-13 04:29:58 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:29:58 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:29:58 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:29:58 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:29:58 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:29:58 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:29:58 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:29:58 --> Pagination Class Initialized
+INFO - 2024-02-13 04:29:58 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:29:58 --> User Agent Class Initialized
+INFO - 2024-02-13 04:29:58 --> Controller Class Initialized
+INFO - 2024-02-13 04:29:58 --> Model "M_files" initialized
+INFO - 2024-02-13 04:29:58 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:29:58 --> Upload Class Initialized
+INFO - 2024-02-13 04:29:58 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:29:58 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:29:58 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:34:08 --> Config Class Initialized
+INFO - 2024-02-13 04:34:08 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:34:08 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:34:08 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:34:08 --> URI Class Initialized
+INFO - 2024-02-13 04:34:08 --> Router Class Initialized
+INFO - 2024-02-13 04:34:08 --> Output Class Initialized
+INFO - 2024-02-13 04:34:08 --> Security Class Initialized
+DEBUG - 2024-02-13 04:34:08 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:34:08 --> Input Class Initialized
+INFO - 2024-02-13 04:34:08 --> Language Class Initialized
+INFO - 2024-02-13 04:34:08 --> Loader Class Initialized
+INFO - 2024-02-13 04:34:08 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:34:08 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:34:08 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:34:08 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:34:08 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:34:08 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:34:08 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:34:08 --> Pagination Class Initialized
+INFO - 2024-02-13 04:34:08 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:34:08 --> User Agent Class Initialized
+INFO - 2024-02-13 04:34:08 --> Controller Class Initialized
+INFO - 2024-02-13 04:34:08 --> Model "M_files" initialized
+INFO - 2024-02-13 04:34:08 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:34:08 --> Upload Class Initialized
+INFO - 2024-02-13 04:34:08 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:34:08 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:34:08 --> Severity: error --> Exception: syntax error, unexpected 'endforeach' (T_ENDFOREACH), expecting end of file C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 231
+INFO - 2024-02-13 04:34:19 --> Config Class Initialized
+INFO - 2024-02-13 04:34:19 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:34:19 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:34:19 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:34:19 --> URI Class Initialized
+INFO - 2024-02-13 04:34:19 --> Router Class Initialized
+INFO - 2024-02-13 04:34:19 --> Output Class Initialized
+INFO - 2024-02-13 04:34:19 --> Security Class Initialized
+DEBUG - 2024-02-13 04:34:19 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:34:19 --> Input Class Initialized
+INFO - 2024-02-13 04:34:19 --> Language Class Initialized
+INFO - 2024-02-13 04:34:19 --> Loader Class Initialized
+INFO - 2024-02-13 04:34:19 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:34:19 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:34:19 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:34:19 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:34:19 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:34:19 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:34:19 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:34:19 --> Pagination Class Initialized
+INFO - 2024-02-13 04:34:19 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:34:19 --> User Agent Class Initialized
+INFO - 2024-02-13 04:34:19 --> Controller Class Initialized
+INFO - 2024-02-13 04:34:19 --> Model "M_files" initialized
+INFO - 2024-02-13 04:34:19 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:34:19 --> Upload Class Initialized
+INFO - 2024-02-13 04:34:19 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:34:19 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+ERROR - 2024-02-13 04:34:19 --> Severity: Notice --> Undefined variable: kelas_nama C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:34:19 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:34:19 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:34:19 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:34:19 --> Final output sent to browser
+DEBUG - 2024-02-13 04:34:19 --> Total execution time: 0.0589
+INFO - 2024-02-13 04:38:09 --> Config Class Initialized
+INFO - 2024-02-13 04:38:09 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:38:09 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:38:09 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:38:09 --> URI Class Initialized
+INFO - 2024-02-13 04:38:09 --> Router Class Initialized
+INFO - 2024-02-13 04:38:09 --> Output Class Initialized
+INFO - 2024-02-13 04:38:09 --> Security Class Initialized
+DEBUG - 2024-02-13 04:38:09 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:38:09 --> Input Class Initialized
+INFO - 2024-02-13 04:38:09 --> Language Class Initialized
+INFO - 2024-02-13 04:38:09 --> Loader Class Initialized
+INFO - 2024-02-13 04:38:09 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:38:09 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:38:09 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:38:09 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:38:09 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:38:09 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:38:09 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:38:09 --> Pagination Class Initialized
+INFO - 2024-02-13 04:38:09 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:38:09 --> User Agent Class Initialized
+INFO - 2024-02-13 04:38:09 --> Controller Class Initialized
+INFO - 2024-02-13 04:38:09 --> Model "M_files" initialized
+INFO - 2024-02-13 04:38:09 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:38:09 --> Upload Class Initialized
+INFO - 2024-02-13 04:38:09 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:38:09 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:38:09 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:38:15 --> Config Class Initialized
+INFO - 2024-02-13 04:38:15 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:38:15 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:38:15 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:38:15 --> URI Class Initialized
+INFO - 2024-02-13 04:38:15 --> Router Class Initialized
+INFO - 2024-02-13 04:38:15 --> Output Class Initialized
+INFO - 2024-02-13 04:38:15 --> Security Class Initialized
+DEBUG - 2024-02-13 04:38:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:38:15 --> Input Class Initialized
+INFO - 2024-02-13 04:38:15 --> Language Class Initialized
+INFO - 2024-02-13 04:38:15 --> Loader Class Initialized
+INFO - 2024-02-13 04:38:15 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:38:15 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:38:15 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:38:15 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:38:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:38:15 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:38:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:38:15 --> Pagination Class Initialized
+INFO - 2024-02-13 04:38:15 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:38:15 --> User Agent Class Initialized
+INFO - 2024-02-13 04:38:15 --> Controller Class Initialized
+INFO - 2024-02-13 04:38:15 --> Model "M_files" initialized
+INFO - 2024-02-13 04:38:15 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:38:15 --> Upload Class Initialized
+INFO - 2024-02-13 04:38:15 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:38:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:38:15 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:38:15 --> Config Class Initialized
+INFO - 2024-02-13 04:38:15 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:38:15 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:38:15 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:38:15 --> URI Class Initialized
+INFO - 2024-02-13 04:38:15 --> Router Class Initialized
+INFO - 2024-02-13 04:38:15 --> Output Class Initialized
+INFO - 2024-02-13 04:38:15 --> Security Class Initialized
+DEBUG - 2024-02-13 04:38:15 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:38:15 --> Input Class Initialized
+INFO - 2024-02-13 04:38:15 --> Language Class Initialized
+INFO - 2024-02-13 04:38:15 --> Loader Class Initialized
+INFO - 2024-02-13 04:38:15 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:38:15 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:38:15 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:38:15 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:38:15 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:38:15 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:38:15 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:38:15 --> Pagination Class Initialized
+INFO - 2024-02-13 04:38:15 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:38:15 --> User Agent Class Initialized
+INFO - 2024-02-13 04:38:15 --> Controller Class Initialized
+INFO - 2024-02-13 04:38:15 --> Model "M_files" initialized
+INFO - 2024-02-13 04:38:15 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:38:15 --> Upload Class Initialized
+INFO - 2024-02-13 04:38:15 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:38:15 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:38:15 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:38:24 --> Config Class Initialized
+INFO - 2024-02-13 04:38:24 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:38:24 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:38:24 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:38:24 --> URI Class Initialized
+INFO - 2024-02-13 04:38:25 --> Router Class Initialized
+INFO - 2024-02-13 04:38:25 --> Output Class Initialized
+INFO - 2024-02-13 04:38:25 --> Security Class Initialized
+DEBUG - 2024-02-13 04:38:25 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:38:25 --> Input Class Initialized
+INFO - 2024-02-13 04:38:25 --> Language Class Initialized
+INFO - 2024-02-13 04:38:25 --> Loader Class Initialized
+INFO - 2024-02-13 04:38:25 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:38:25 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:38:25 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:38:25 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:38:25 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:38:25 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:38:25 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:38:25 --> Pagination Class Initialized
+INFO - 2024-02-13 04:38:25 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:38:25 --> User Agent Class Initialized
+INFO - 2024-02-13 04:38:25 --> Controller Class Initialized
+INFO - 2024-02-13 04:38:25 --> Model "M_files" initialized
+INFO - 2024-02-13 04:38:25 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:38:25 --> Upload Class Initialized
+INFO - 2024-02-13 04:38:25 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:38:25 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:38:25 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:42:50 --> Config Class Initialized
+INFO - 2024-02-13 04:42:50 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:42:50 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:42:50 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:42:50 --> URI Class Initialized
+INFO - 2024-02-13 04:42:50 --> Router Class Initialized
+INFO - 2024-02-13 04:42:50 --> Output Class Initialized
+INFO - 2024-02-13 04:42:50 --> Security Class Initialized
+DEBUG - 2024-02-13 04:42:50 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:42:50 --> Input Class Initialized
+INFO - 2024-02-13 04:42:50 --> Language Class Initialized
+INFO - 2024-02-13 04:42:50 --> Loader Class Initialized
+INFO - 2024-02-13 04:42:50 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:42:50 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:42:50 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:42:50 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:42:50 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:42:50 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:42:50 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:42:50 --> Pagination Class Initialized
+INFO - 2024-02-13 04:42:50 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:42:50 --> User Agent Class Initialized
+INFO - 2024-02-13 04:42:50 --> Controller Class Initialized
+INFO - 2024-02-13 04:42:50 --> Model "M_files" initialized
+INFO - 2024-02-13 04:42:50 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:42:50 --> Upload Class Initialized
+INFO - 2024-02-13 04:42:50 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:42:50 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:42:50 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:42:52 --> Config Class Initialized
+INFO - 2024-02-13 04:42:52 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:42:53 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:42:53 --> URI Class Initialized
+INFO - 2024-02-13 04:42:53 --> Router Class Initialized
+INFO - 2024-02-13 04:42:53 --> Output Class Initialized
+INFO - 2024-02-13 04:42:53 --> Security Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:42:53 --> Input Class Initialized
+INFO - 2024-02-13 04:42:53 --> Language Class Initialized
+INFO - 2024-02-13 04:42:53 --> Loader Class Initialized
+INFO - 2024-02-13 04:42:53 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:42:53 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:42:53 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:42:53 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:42:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:42:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:42:53 --> Pagination Class Initialized
+INFO - 2024-02-13 04:42:53 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:42:53 --> User Agent Class Initialized
+INFO - 2024-02-13 04:42:53 --> Controller Class Initialized
+INFO - 2024-02-13 04:42:53 --> Model "M_files" initialized
+INFO - 2024-02-13 04:42:53 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:42:53 --> Upload Class Initialized
+INFO - 2024-02-13 04:42:53 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:42:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:42:53 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:42:53 --> Config Class Initialized
+INFO - 2024-02-13 04:42:53 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:42:53 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:42:53 --> URI Class Initialized
+INFO - 2024-02-13 04:42:53 --> Router Class Initialized
+INFO - 2024-02-13 04:42:53 --> Output Class Initialized
+INFO - 2024-02-13 04:42:53 --> Security Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:42:53 --> Input Class Initialized
+INFO - 2024-02-13 04:42:53 --> Language Class Initialized
+INFO - 2024-02-13 04:42:53 --> Loader Class Initialized
+INFO - 2024-02-13 04:42:53 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:42:53 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:42:53 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:42:53 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:42:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:42:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:42:53 --> Pagination Class Initialized
+INFO - 2024-02-13 04:42:53 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:42:53 --> User Agent Class Initialized
+INFO - 2024-02-13 04:42:53 --> Controller Class Initialized
+INFO - 2024-02-13 04:42:53 --> Model "M_files" initialized
+INFO - 2024-02-13 04:42:53 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:42:53 --> Upload Class Initialized
+INFO - 2024-02-13 04:42:53 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:42:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:42:53 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:42:53 --> Config Class Initialized
+INFO - 2024-02-13 04:42:53 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:42:53 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:42:53 --> URI Class Initialized
+INFO - 2024-02-13 04:42:53 --> Router Class Initialized
+INFO - 2024-02-13 04:42:53 --> Output Class Initialized
+INFO - 2024-02-13 04:42:53 --> Security Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:42:53 --> Input Class Initialized
+INFO - 2024-02-13 04:42:53 --> Language Class Initialized
+INFO - 2024-02-13 04:42:53 --> Loader Class Initialized
+INFO - 2024-02-13 04:42:53 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:42:53 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:42:53 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:42:53 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:42:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:42:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:42:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:42:53 --> Pagination Class Initialized
+INFO - 2024-02-13 04:42:53 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:42:53 --> User Agent Class Initialized
+INFO - 2024-02-13 04:42:53 --> Controller Class Initialized
+INFO - 2024-02-13 04:42:53 --> Model "M_files" initialized
+INFO - 2024-02-13 04:42:53 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:42:53 --> Upload Class Initialized
+INFO - 2024-02-13 04:42:53 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:42:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:42:53 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 196
+INFO - 2024-02-13 04:46:00 --> Config Class Initialized
+INFO - 2024-02-13 04:46:00 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:46:00 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:46:00 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:46:00 --> URI Class Initialized
+INFO - 2024-02-13 04:46:00 --> Router Class Initialized
+INFO - 2024-02-13 04:46:00 --> Output Class Initialized
+INFO - 2024-02-13 04:46:00 --> Security Class Initialized
+DEBUG - 2024-02-13 04:46:00 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:46:00 --> Input Class Initialized
+INFO - 2024-02-13 04:46:00 --> Language Class Initialized
+INFO - 2024-02-13 04:46:00 --> Loader Class Initialized
+INFO - 2024-02-13 04:46:00 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:46:00 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:46:00 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:46:00 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:46:00 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:46:00 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:46:00 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:46:00 --> Pagination Class Initialized
+INFO - 2024-02-13 04:46:00 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:46:00 --> User Agent Class Initialized
+INFO - 2024-02-13 04:46:00 --> Controller Class Initialized
+INFO - 2024-02-13 04:46:00 --> Model "M_files" initialized
+INFO - 2024-02-13 04:46:00 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:46:00 --> Upload Class Initialized
+INFO - 2024-02-13 04:46:00 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:46:00 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:46:00 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:46:04 --> Config Class Initialized
+INFO - 2024-02-13 04:46:04 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:46:04 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:46:04 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:46:04 --> URI Class Initialized
+INFO - 2024-02-13 04:46:04 --> Router Class Initialized
+INFO - 2024-02-13 04:46:04 --> Output Class Initialized
+INFO - 2024-02-13 04:46:04 --> Security Class Initialized
+DEBUG - 2024-02-13 04:46:04 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:46:04 --> Input Class Initialized
+INFO - 2024-02-13 04:46:04 --> Language Class Initialized
+INFO - 2024-02-13 04:46:04 --> Loader Class Initialized
+INFO - 2024-02-13 04:46:04 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:46:04 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:46:04 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:46:04 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:46:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:46:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:46:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:46:04 --> Pagination Class Initialized
+INFO - 2024-02-13 04:46:04 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:46:04 --> User Agent Class Initialized
+INFO - 2024-02-13 04:46:04 --> Controller Class Initialized
+INFO - 2024-02-13 04:46:04 --> Model "M_files" initialized
+INFO - 2024-02-13 04:46:04 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:46:04 --> Upload Class Initialized
+INFO - 2024-02-13 04:46:04 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:46:04 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+ERROR - 2024-02-13 04:46:04 --> Severity: error --> Exception: Call to a member function result_array() on null C:\xampp\htdocs\websitesekolah\application\views\admin\v_files.php 197
+INFO - 2024-02-13 04:47:40 --> Config Class Initialized
+INFO - 2024-02-13 04:47:40 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:47:40 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:47:40 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:47:40 --> URI Class Initialized
+INFO - 2024-02-13 04:47:40 --> Router Class Initialized
+INFO - 2024-02-13 04:47:40 --> Output Class Initialized
+INFO - 2024-02-13 04:47:40 --> Security Class Initialized
+DEBUG - 2024-02-13 04:47:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:47:40 --> Input Class Initialized
+INFO - 2024-02-13 04:47:40 --> Language Class Initialized
+INFO - 2024-02-13 04:47:40 --> Loader Class Initialized
+INFO - 2024-02-13 04:47:40 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:47:40 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:47:40 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:47:40 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:47:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:47:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:47:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:47:40 --> Pagination Class Initialized
+INFO - 2024-02-13 04:47:40 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:47:40 --> User Agent Class Initialized
+INFO - 2024-02-13 04:47:40 --> Controller Class Initialized
+INFO - 2024-02-13 04:47:40 --> Model "M_files" initialized
+INFO - 2024-02-13 04:47:40 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:47:40 --> Upload Class Initialized
+INFO - 2024-02-13 04:47:40 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:47:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:47:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:47:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:47:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:47:40 --> Final output sent to browser
+DEBUG - 2024-02-13 04:47:40 --> Total execution time: 0.0623
+INFO - 2024-02-13 04:47:52 --> Config Class Initialized
+INFO - 2024-02-13 04:47:52 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:47:52 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:47:52 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:47:52 --> URI Class Initialized
+INFO - 2024-02-13 04:47:52 --> Router Class Initialized
+INFO - 2024-02-13 04:47:52 --> Output Class Initialized
+INFO - 2024-02-13 04:47:52 --> Security Class Initialized
+DEBUG - 2024-02-13 04:47:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:47:52 --> Input Class Initialized
+INFO - 2024-02-13 04:47:52 --> Language Class Initialized
+INFO - 2024-02-13 04:47:52 --> Loader Class Initialized
+INFO - 2024-02-13 04:47:52 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:47:52 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:47:52 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:47:52 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:47:52 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:47:52 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:47:52 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:47:52 --> Pagination Class Initialized
+INFO - 2024-02-13 04:47:52 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:47:52 --> User Agent Class Initialized
+INFO - 2024-02-13 04:47:52 --> Controller Class Initialized
+INFO - 2024-02-13 04:47:52 --> Model "M_video" initialized
+INFO - 2024-02-13 04:47:52 --> Model "M_mapel" initialized
+INFO - 2024-02-13 04:47:52 --> Upload Class Initialized
+INFO - 2024-02-13 04:47:52 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:47:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_video.php
+INFO - 2024-02-13 04:47:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:47:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:47:53 --> Final output sent to browser
+DEBUG - 2024-02-13 04:47:53 --> Total execution time: 0.3977
+INFO - 2024-02-13 04:48:16 --> Config Class Initialized
+INFO - 2024-02-13 04:48:16 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:48:16 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:48:16 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:48:16 --> URI Class Initialized
+INFO - 2024-02-13 04:48:16 --> Router Class Initialized
+INFO - 2024-02-13 04:48:16 --> Output Class Initialized
+INFO - 2024-02-13 04:48:16 --> Security Class Initialized
+DEBUG - 2024-02-13 04:48:16 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:48:16 --> Input Class Initialized
+INFO - 2024-02-13 04:48:16 --> Language Class Initialized
+INFO - 2024-02-13 04:48:16 --> Loader Class Initialized
+INFO - 2024-02-13 04:48:16 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:48:16 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:48:16 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:48:16 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:48:16 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:48:16 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:48:16 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:48:16 --> Pagination Class Initialized
+INFO - 2024-02-13 04:48:16 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:48:16 --> User Agent Class Initialized
+INFO - 2024-02-13 04:48:16 --> Controller Class Initialized
+INFO - 2024-02-13 04:48:16 --> Model "M_video" initialized
+INFO - 2024-02-13 04:48:16 --> Model "M_mapel" initialized
+INFO - 2024-02-13 04:48:16 --> Upload Class Initialized
+INFO - 2024-02-13 04:48:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:48:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_video.php
+INFO - 2024-02-13 04:48:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:48:16 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:48:16 --> Final output sent to browser
+DEBUG - 2024-02-13 04:48:16 --> Total execution time: 0.1199
+INFO - 2024-02-13 04:48:17 --> Config Class Initialized
+INFO - 2024-02-13 04:48:17 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:48:17 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:48:17 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:48:17 --> URI Class Initialized
+INFO - 2024-02-13 04:48:17 --> Router Class Initialized
+INFO - 2024-02-13 04:48:17 --> Output Class Initialized
+INFO - 2024-02-13 04:48:17 --> Security Class Initialized
+DEBUG - 2024-02-13 04:48:17 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:48:17 --> Input Class Initialized
+INFO - 2024-02-13 04:48:17 --> Language Class Initialized
+INFO - 2024-02-13 04:48:17 --> Loader Class Initialized
+INFO - 2024-02-13 04:48:17 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:48:17 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:48:17 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:48:17 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:48:17 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:48:17 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:48:17 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:48:17 --> Pagination Class Initialized
+INFO - 2024-02-13 04:48:17 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:48:17 --> User Agent Class Initialized
+INFO - 2024-02-13 04:48:17 --> Controller Class Initialized
+INFO - 2024-02-13 04:48:17 --> Model "M_files" initialized
+INFO - 2024-02-13 04:48:17 --> Model "M_pengguna" initialized
+INFO - 2024-02-13 04:48:17 --> Upload Class Initialized
+INFO - 2024-02-13 04:48:17 --> Helper loaded: download_helper
+INFO - 2024-02-13 04:48:17 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:48:17 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_files.php
+INFO - 2024-02-13 04:48:17 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:48:17 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:48:17 --> Final output sent to browser
+DEBUG - 2024-02-13 04:48:17 --> Total execution time: 0.0619
+INFO - 2024-02-13 04:48:26 --> Config Class Initialized
+INFO - 2024-02-13 04:48:26 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:48:26 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:48:26 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:48:26 --> URI Class Initialized
+INFO - 2024-02-13 04:48:26 --> Router Class Initialized
+INFO - 2024-02-13 04:48:26 --> Output Class Initialized
+INFO - 2024-02-13 04:48:26 --> Security Class Initialized
+DEBUG - 2024-02-13 04:48:26 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:48:26 --> Input Class Initialized
+INFO - 2024-02-13 04:48:26 --> Language Class Initialized
+INFO - 2024-02-13 04:48:26 --> Loader Class Initialized
+INFO - 2024-02-13 04:48:26 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:48:26 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:48:26 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:48:26 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:48:26 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:48:26 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:48:26 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:48:26 --> Pagination Class Initialized
+INFO - 2024-02-13 04:48:26 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:48:26 --> User Agent Class Initialized
+INFO - 2024-02-13 04:48:26 --> Controller Class Initialized
+INFO - 2024-02-13 04:48:26 --> Model "M_mapel" initialized
+INFO - 2024-02-13 04:48:26 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:48:26 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_mapel.php
+INFO - 2024-02-13 04:48:26 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:48:26 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:48:26 --> Final output sent to browser
+DEBUG - 2024-02-13 04:48:26 --> Total execution time: 0.0598
+INFO - 2024-02-13 04:48:29 --> Config Class Initialized
+INFO - 2024-02-13 04:48:29 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:48:29 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:48:29 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:48:29 --> URI Class Initialized
+INFO - 2024-02-13 04:48:29 --> Router Class Initialized
+INFO - 2024-02-13 04:48:29 --> Output Class Initialized
+INFO - 2024-02-13 04:48:29 --> Security Class Initialized
+DEBUG - 2024-02-13 04:48:29 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:48:29 --> Input Class Initialized
+INFO - 2024-02-13 04:48:29 --> Language Class Initialized
+INFO - 2024-02-13 04:48:29 --> Loader Class Initialized
+INFO - 2024-02-13 04:48:29 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:48:29 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:48:29 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:48:29 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:48:29 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:48:29 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:48:29 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:48:29 --> Pagination Class Initialized
+INFO - 2024-02-13 04:48:29 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:48:29 --> User Agent Class Initialized
+INFO - 2024-02-13 04:48:29 --> Controller Class Initialized
+INFO - 2024-02-13 04:48:29 --> Model "M_video" initialized
+INFO - 2024-02-13 04:48:29 --> Model "M_mapel" initialized
+INFO - 2024-02-13 04:48:29 --> Upload Class Initialized
+INFO - 2024-02-13 04:48:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:48:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_video.php
+INFO - 2024-02-13 04:48:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:48:29 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:48:29 --> Final output sent to browser
+DEBUG - 2024-02-13 04:48:29 --> Total execution time: 0.3733
+INFO - 2024-02-13 04:48:46 --> Config Class Initialized
+INFO - 2024-02-13 04:48:46 --> Hooks Class Initialized
+DEBUG - 2024-02-13 04:48:46 --> UTF-8 Support Enabled
+INFO - 2024-02-13 04:48:46 --> Utf8 Class Initialized
+INFO - 2024-02-13 04:48:46 --> URI Class Initialized
+INFO - 2024-02-13 04:48:46 --> Router Class Initialized
+INFO - 2024-02-13 04:48:46 --> Output Class Initialized
+INFO - 2024-02-13 04:48:46 --> Security Class Initialized
+DEBUG - 2024-02-13 04:48:46 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 04:48:46 --> Input Class Initialized
+INFO - 2024-02-13 04:48:46 --> Language Class Initialized
+INFO - 2024-02-13 04:48:46 --> Loader Class Initialized
+INFO - 2024-02-13 04:48:46 --> Helper loaded: url_helper
+INFO - 2024-02-13 04:48:46 --> Helper loaded: file_helper
+INFO - 2024-02-13 04:48:46 --> Helper loaded: form_helper
+INFO - 2024-02-13 04:48:46 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 04:48:46 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 04:48:46 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 04:48:46 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 04:48:46 --> Pagination Class Initialized
+INFO - 2024-02-13 04:48:46 --> XML-RPC Class Initialized
+INFO - 2024-02-13 04:48:46 --> User Agent Class Initialized
+INFO - 2024-02-13 04:48:46 --> Controller Class Initialized
+INFO - 2024-02-13 04:48:46 --> Model "M_mapel" initialized
+INFO - 2024-02-13 04:48:46 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 04:48:46 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_mapel.php
+INFO - 2024-02-13 04:48:46 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 04:48:46 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 04:48:46 --> Final output sent to browser
+DEBUG - 2024-02-13 04:48:46 --> Total execution time: 0.0516
+INFO - 2024-02-13 05:35:13 --> Config Class Initialized
+INFO - 2024-02-13 05:35:13 --> Hooks Class Initialized
+DEBUG - 2024-02-13 05:35:13 --> UTF-8 Support Enabled
+INFO - 2024-02-13 05:35:13 --> Utf8 Class Initialized
+INFO - 2024-02-13 05:35:13 --> URI Class Initialized
+INFO - 2024-02-13 05:35:13 --> Router Class Initialized
+INFO - 2024-02-13 05:35:13 --> Output Class Initialized
+INFO - 2024-02-13 05:35:13 --> Security Class Initialized
+DEBUG - 2024-02-13 05:35:13 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-02-13 05:35:13 --> Input Class Initialized
+INFO - 2024-02-13 05:35:13 --> Language Class Initialized
+INFO - 2024-02-13 05:35:13 --> Loader Class Initialized
+INFO - 2024-02-13 05:35:13 --> Helper loaded: url_helper
+INFO - 2024-02-13 05:35:13 --> Helper loaded: file_helper
+INFO - 2024-02-13 05:35:13 --> Helper loaded: form_helper
+INFO - 2024-02-13 05:35:13 --> Database Driver Class Initialized
+DEBUG - 2024-02-13 05:35:14 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-02-13 05:35:14 --> Session: Class initialized using 'files' driver.
+INFO - 2024-02-13 05:35:14 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-02-13 05:35:14 --> Pagination Class Initialized
+INFO - 2024-02-13 05:35:14 --> XML-RPC Class Initialized
+INFO - 2024-02-13 05:35:14 --> User Agent Class Initialized
+INFO - 2024-02-13 05:35:14 --> Controller Class Initialized
+INFO - 2024-02-13 05:35:14 --> Model "M_pengumuman" initialized
+INFO - 2024-02-13 05:35:14 --> Upload Class Initialized
+INFO - 2024-02-13 05:35:14 --> Helper loaded: download_helper
+INFO - 2024-02-13 05:35:14 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-02-13 05:35:14 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_pengumuman.php
+INFO - 2024-02-13 05:35:14 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-02-13 05:35:14 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-02-13 05:35:14 --> Final output sent to browser
+DEBUG - 2024-02-13 05:35:14 --> Total execution time: 1.7158

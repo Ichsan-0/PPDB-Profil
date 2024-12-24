@@ -1,0 +1,50 @@
+INFO - 2024-11-01 03:22:52 --> Config Class Initialized
+INFO - 2024-11-01 03:22:52 --> Hooks Class Initialized
+DEBUG - 2024-11-01 03:22:52 --> UTF-8 Support Enabled
+INFO - 2024-11-01 03:22:52 --> Utf8 Class Initialized
+INFO - 2024-11-01 03:22:52 --> URI Class Initialized
+DEBUG - 2024-11-01 03:22:52 --> No URI present. Default controller set.
+INFO - 2024-11-01 03:22:52 --> Router Class Initialized
+INFO - 2024-11-01 03:22:52 --> Output Class Initialized
+INFO - 2024-11-01 03:22:52 --> Security Class Initialized
+DEBUG - 2024-11-01 03:22:52 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-11-01 03:22:52 --> Input Class Initialized
+INFO - 2024-11-01 03:22:52 --> Language Class Initialized
+INFO - 2024-11-01 03:22:52 --> Loader Class Initialized
+INFO - 2024-11-01 03:22:52 --> Helper loaded: url_helper
+INFO - 2024-11-01 03:22:52 --> Helper loaded: global_helper
+INFO - 2024-11-01 03:22:52 --> Helper loaded: file_helper
+INFO - 2024-11-01 03:22:52 --> Helper loaded: form_helper
+INFO - 2024-11-01 03:22:53 --> Database Driver Class Initialized
+DEBUG - 2024-11-01 03:22:53 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-11-01 03:22:53 --> Session: Class initialized using 'files' driver.
+INFO - 2024-11-01 03:22:53 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-11-01 03:22:53 --> Pagination Class Initialized
+INFO - 2024-11-01 03:22:53 --> XML-RPC Class Initialized
+INFO - 2024-11-01 03:22:53 --> User Agent Class Initialized
+INFO - 2024-11-01 03:22:53 --> Controller Class Initialized
+INFO - 2024-11-01 03:22:53 --> Model "M_tulisan" initialized
+INFO - 2024-11-01 03:22:53 --> Model "M_galeri" initialized
+INFO - 2024-11-01 03:22:53 --> Model "M_pengumuman" initialized
+INFO - 2024-11-01 03:22:53 --> Model "M_agenda" initialized
+INFO - 2024-11-01 03:22:53 --> Model "M_files" initialized
+INFO - 2024-11-01 03:22:53 --> Model "M_pengunjung" initialized
+INFO - 2024-11-01 03:22:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/header.php
+INFO - 2024-11-01 03:22:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/navigation.php
+INFO - 2024-11-01 03:22:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/home.php
+INFO - 2024-11-01 03:22:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/footer.php
+INFO - 2024-11-01 03:22:53 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/template.php
+INFO - 2024-11-01 03:22:53 --> Final output sent to browser
+DEBUG - 2024-11-01 03:22:53 --> Total execution time: 1.3836
+INFO - 2024-11-01 03:22:54 --> Config Class Initialized
+INFO - 2024-11-01 03:22:54 --> Hooks Class Initialized
+DEBUG - 2024-11-01 03:22:54 --> UTF-8 Support Enabled
+INFO - 2024-11-01 03:22:54 --> Utf8 Class Initialized
+INFO - 2024-11-01 03:22:54 --> URI Class Initialized
+INFO - 2024-11-01 03:22:54 --> Router Class Initialized
+INFO - 2024-11-01 03:22:54 --> Output Class Initialized
+INFO - 2024-11-01 03:22:54 --> Security Class Initialized
+DEBUG - 2024-11-01 03:22:54 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-11-01 03:22:54 --> Input Class Initialized
+INFO - 2024-11-01 03:22:54 --> Language Class Initialized
+ERROR - 2024-11-01 03:22:54 --> 404 Page Not Found: Img/program

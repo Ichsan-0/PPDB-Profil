@@ -1,0 +1,402 @@
+INFO - 2024-01-09 10:36:03 --> Config Class Initialized
+INFO - 2024-01-09 10:36:03 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:03 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:03 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:03 --> URI Class Initialized
+INFO - 2024-01-09 10:36:03 --> Router Class Initialized
+INFO - 2024-01-09 10:36:03 --> Output Class Initialized
+INFO - 2024-01-09 10:36:03 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:03 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:03 --> Input Class Initialized
+INFO - 2024-01-09 10:36:03 --> Language Class Initialized
+INFO - 2024-01-09 10:36:03 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:03 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:04 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:04 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:04 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:04 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:04 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:04 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:04 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:04 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:04 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:04 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:04 --> Model "M_pendaftar" initialized
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'no_pendaftaran' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 94
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 98
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'nisn' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 102
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'tempat_tanggal_lahir' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 106
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'alamat_ktp' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 110
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'sekolah_asal' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 114
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 118
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'no_hp' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 122
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'nama_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 130
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'tinggal_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 134
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'no_hp_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 138
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'penghasilan_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 157
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'nama_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 185
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'tinggal_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 189
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'no_hp_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 193
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'penghasilan_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 212
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'nama_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 239
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'tinggal_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 243
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'no_hp_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 247
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'penghasilan_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 265
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 328
+ERROR - 2024-01-09 10:36:06 --> Severity: Notice --> Trying to get property 'foto' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 345
+INFO - 2024-01-09 10:36:06 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_cetak_formulir.php
+ERROR - 2024-01-09 10:36:09 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\websitesekolah\application\controllers\pendaftar\Bukti_daftar.php 60
+INFO - 2024-01-09 10:36:09 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:09 --> Total execution time: 5.9628
+INFO - 2024-01-09 10:36:11 --> Config Class Initialized
+INFO - 2024-01-09 10:36:11 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:11 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:11 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:11 --> URI Class Initialized
+INFO - 2024-01-09 10:36:11 --> Router Class Initialized
+INFO - 2024-01-09 10:36:11 --> Output Class Initialized
+INFO - 2024-01-09 10:36:11 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:11 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:11 --> Input Class Initialized
+INFO - 2024-01-09 10:36:11 --> Language Class Initialized
+INFO - 2024-01-09 10:36:11 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:11 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:11 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:11 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:11 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:11 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:11 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:11 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:11 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:11 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:11 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:11 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:11 --> Model "M_pendaftar" initialized
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'no_pendaftaran' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 94
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 98
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'nisn' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 102
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'tempat_tanggal_lahir' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 106
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'alamat_ktp' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 110
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'sekolah_asal' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 114
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'email' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 118
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'no_hp' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 122
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'nama_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 130
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'tinggal_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 134
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'no_hp_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 138
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ayah_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 145
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'penghasilan_ayah' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 157
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'nama_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 185
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'tinggal_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 189
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'no_hp_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 193
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_ibu_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 200
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'penghasilan_ibu' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 212
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'nama_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 239
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'tinggal_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 243
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'no_hp_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 247
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'pekerjaan_wali_id' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 254
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'penghasilan_wali' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 265
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'status' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 328
+ERROR - 2024-01-09 10:36:11 --> Severity: Notice --> Trying to get property 'foto' of non-object C:\xampp\htdocs\websitesekolah\application\views\pendaftar\v_cetak_formulir.php 345
+INFO - 2024-01-09 10:36:11 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_cetak_formulir.php
+ERROR - 2024-01-09 10:36:13 --> Severity: Notice --> Trying to get property 'nama' of non-object C:\xampp\htdocs\websitesekolah\application\controllers\pendaftar\Bukti_daftar.php 60
+INFO - 2024-01-09 10:36:13 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:13 --> Total execution time: 2.6997
+INFO - 2024-01-09 10:36:31 --> Config Class Initialized
+INFO - 2024-01-09 10:36:31 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:31 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:31 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:31 --> URI Class Initialized
+INFO - 2024-01-09 10:36:31 --> Router Class Initialized
+INFO - 2024-01-09 10:36:31 --> Output Class Initialized
+INFO - 2024-01-09 10:36:31 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:31 --> Input Class Initialized
+INFO - 2024-01-09 10:36:31 --> Language Class Initialized
+INFO - 2024-01-09 10:36:31 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:31 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:31 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:31 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:31 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:31 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:31 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:31 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:31 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:31 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:31 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:31 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:31 --> Model "M_pendaftar" initialized
+INFO - 2024-01-09 10:36:31 --> Model "M_siswa" initialized
+INFO - 2024-01-09 10:36:31 --> Config Class Initialized
+INFO - 2024-01-09 10:36:31 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:31 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:31 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:31 --> URI Class Initialized
+INFO - 2024-01-09 10:36:31 --> Router Class Initialized
+INFO - 2024-01-09 10:36:31 --> Output Class Initialized
+INFO - 2024-01-09 10:36:31 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:31 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:31 --> Input Class Initialized
+INFO - 2024-01-09 10:36:31 --> Language Class Initialized
+INFO - 2024-01-09 10:36:31 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:31 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:31 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:31 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:31 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:32 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:32 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:32 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:32 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:32 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:32 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:32 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:32 --> Model "M_login" initialized
+INFO - 2024-01-09 10:36:32 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\depan/v_login.php
+INFO - 2024-01-09 10:36:32 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:32 --> Total execution time: 0.1237
+INFO - 2024-01-09 10:36:38 --> Config Class Initialized
+INFO - 2024-01-09 10:36:38 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:38 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:38 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:38 --> URI Class Initialized
+INFO - 2024-01-09 10:36:38 --> Router Class Initialized
+INFO - 2024-01-09 10:36:38 --> Output Class Initialized
+INFO - 2024-01-09 10:36:38 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:38 --> Input Class Initialized
+INFO - 2024-01-09 10:36:38 --> Language Class Initialized
+INFO - 2024-01-09 10:36:38 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:38 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:38 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:38 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:38 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:38 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:38 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:38 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:38 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:38 --> Model "M_login" initialized
+ERROR - 2024-01-09 10:36:38 --> Severity: Notice --> Undefined variable: pengguna_nama C:\xampp\htdocs\websitesekolah\application\controllers\Login.php 21
+ERROR - 2024-01-09 10:36:38 --> Severity: Notice --> Undefined property: stdClass::$ C:\xampp\htdocs\websitesekolah\application\controllers\Login.php 21
+INFO - 2024-01-09 10:36:38 --> Config Class Initialized
+INFO - 2024-01-09 10:36:38 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:38 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:38 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:38 --> URI Class Initialized
+INFO - 2024-01-09 10:36:38 --> Router Class Initialized
+INFO - 2024-01-09 10:36:38 --> Output Class Initialized
+INFO - 2024-01-09 10:36:38 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:38 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:38 --> Input Class Initialized
+INFO - 2024-01-09 10:36:38 --> Language Class Initialized
+INFO - 2024-01-09 10:36:38 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:38 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:38 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:38 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:38 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:38 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:38 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:38 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:38 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:38 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:38 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:38 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:38 --> Model "M_pendaftar" initialized
+INFO - 2024-01-09 10:36:38 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-01-09 10:36:38 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_dashboard.php
+INFO - 2024-01-09 10:36:38 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-01-09 10:36:38 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-01-09 10:36:38 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:38 --> Total execution time: 0.1698
+INFO - 2024-01-09 10:36:40 --> Config Class Initialized
+INFO - 2024-01-09 10:36:40 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:40 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:40 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:40 --> URI Class Initialized
+INFO - 2024-01-09 10:36:40 --> Router Class Initialized
+INFO - 2024-01-09 10:36:40 --> Output Class Initialized
+INFO - 2024-01-09 10:36:40 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:40 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:40 --> Input Class Initialized
+INFO - 2024-01-09 10:36:40 --> Language Class Initialized
+INFO - 2024-01-09 10:36:40 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:40 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:40 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:40 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:40 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:40 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:40 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:40 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:40 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:40 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:40 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:40 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:40 --> Model "M_pendaftar" initialized
+INFO - 2024-01-09 10:36:40 --> Model "M_siswa" initialized
+INFO - 2024-01-09 10:36:40 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-01-09 10:36:41 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_data_diri.php
+INFO - 2024-01-09 10:36:41 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-01-09 10:36:41 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-01-09 10:36:41 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:41 --> Total execution time: 0.1869
+INFO - 2024-01-09 10:36:42 --> Config Class Initialized
+INFO - 2024-01-09 10:36:42 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:42 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:42 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:42 --> URI Class Initialized
+INFO - 2024-01-09 10:36:42 --> Router Class Initialized
+INFO - 2024-01-09 10:36:42 --> Output Class Initialized
+INFO - 2024-01-09 10:36:42 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:42 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:42 --> Input Class Initialized
+INFO - 2024-01-09 10:36:42 --> Language Class Initialized
+INFO - 2024-01-09 10:36:42 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:42 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:42 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:42 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:42 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:42 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:42 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:42 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:42 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:42 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:42 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:42 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:42 --> Model "M_pendaftar" initialized
+INFO - 2024-01-09 10:36:42 --> Model "M_siswa" initialized
+INFO - 2024-01-09 10:36:42 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-01-09 10:36:42 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_data_ortu.php
+INFO - 2024-01-09 10:36:42 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-01-09 10:36:42 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-01-09 10:36:42 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:42 --> Total execution time: 0.2587
+INFO - 2024-01-09 10:36:45 --> Config Class Initialized
+INFO - 2024-01-09 10:36:45 --> Hooks Class Initialized
+DEBUG - 2024-01-09 10:36:45 --> UTF-8 Support Enabled
+INFO - 2024-01-09 10:36:45 --> Utf8 Class Initialized
+INFO - 2024-01-09 10:36:45 --> URI Class Initialized
+INFO - 2024-01-09 10:36:45 --> Router Class Initialized
+INFO - 2024-01-09 10:36:45 --> Output Class Initialized
+INFO - 2024-01-09 10:36:45 --> Security Class Initialized
+DEBUG - 2024-01-09 10:36:45 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-09 10:36:45 --> Input Class Initialized
+INFO - 2024-01-09 10:36:45 --> Language Class Initialized
+INFO - 2024-01-09 10:36:45 --> Loader Class Initialized
+INFO - 2024-01-09 10:36:45 --> Helper loaded: url_helper
+INFO - 2024-01-09 10:36:45 --> Helper loaded: file_helper
+INFO - 2024-01-09 10:36:45 --> Helper loaded: form_helper
+INFO - 2024-01-09 10:36:45 --> Database Driver Class Initialized
+DEBUG - 2024-01-09 10:36:45 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-09 10:36:45 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-09 10:36:45 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-09 10:36:45 --> Pagination Class Initialized
+INFO - 2024-01-09 10:36:45 --> XML-RPC Class Initialized
+INFO - 2024-01-09 10:36:45 --> User Agent Class Initialized
+INFO - 2024-01-09 10:36:45 --> Controller Class Initialized
+INFO - 2024-01-09 10:36:45 --> Model "M_pendaftar" initialized
+INFO - 2024-01-09 10:36:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarnavigation.php
+INFO - 2024-01-09 10:36:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\pendaftar/v_bukti_daftar.php
+INFO - 2024-01-09 10:36:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftarfooter.php
+INFO - 2024-01-09 10:36:45 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/pendaftartemplate.php
+INFO - 2024-01-09 10:36:45 --> Final output sent to browser
+DEBUG - 2024-01-09 10:36:45 --> Total execution time: 0.0959

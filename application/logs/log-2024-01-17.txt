@@ -1,0 +1,61 @@
+INFO - 2024-01-17 10:29:46 --> Config Class Initialized
+INFO - 2024-01-17 10:29:46 --> Hooks Class Initialized
+DEBUG - 2024-01-17 10:29:46 --> UTF-8 Support Enabled
+INFO - 2024-01-17 10:29:46 --> Utf8 Class Initialized
+INFO - 2024-01-17 10:29:46 --> URI Class Initialized
+INFO - 2024-01-17 10:29:46 --> Router Class Initialized
+INFO - 2024-01-17 10:29:46 --> Output Class Initialized
+INFO - 2024-01-17 10:29:47 --> Security Class Initialized
+DEBUG - 2024-01-17 10:29:47 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-17 10:29:47 --> Input Class Initialized
+INFO - 2024-01-17 10:29:47 --> Language Class Initialized
+INFO - 2024-01-17 10:29:47 --> Loader Class Initialized
+INFO - 2024-01-17 10:29:47 --> Helper loaded: url_helper
+INFO - 2024-01-17 10:29:47 --> Helper loaded: file_helper
+INFO - 2024-01-17 10:29:47 --> Helper loaded: form_helper
+INFO - 2024-01-17 10:29:47 --> Database Driver Class Initialized
+DEBUG - 2024-01-17 10:29:48 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-17 10:29:48 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-17 10:29:48 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-17 10:29:48 --> Pagination Class Initialized
+INFO - 2024-01-17 10:29:48 --> XML-RPC Class Initialized
+INFO - 2024-01-17 10:29:48 --> User Agent Class Initialized
+INFO - 2024-01-17 10:29:48 --> Controller Class Initialized
+INFO - 2024-01-17 10:29:48 --> Model "M_ppdb" initialized
+INFO - 2024-01-17 10:29:48 --> Upload Class Initialized
+INFO - 2024-01-17 10:29:48 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-01-17 10:29:48 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_ppdb.php
+INFO - 2024-01-17 10:29:48 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-01-17 10:29:48 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-01-17 10:29:48 --> Final output sent to browser
+DEBUG - 2024-01-17 10:29:48 --> Total execution time: 2.7057
+INFO - 2024-01-17 10:29:51 --> Config Class Initialized
+INFO - 2024-01-17 10:29:51 --> Hooks Class Initialized
+DEBUG - 2024-01-17 10:29:51 --> UTF-8 Support Enabled
+INFO - 2024-01-17 10:29:51 --> Utf8 Class Initialized
+INFO - 2024-01-17 10:29:51 --> URI Class Initialized
+INFO - 2024-01-17 10:29:51 --> Router Class Initialized
+INFO - 2024-01-17 10:29:51 --> Output Class Initialized
+INFO - 2024-01-17 10:29:51 --> Security Class Initialized
+DEBUG - 2024-01-17 10:29:51 --> Global POST, GET and COOKIE data sanitized
+INFO - 2024-01-17 10:29:51 --> Input Class Initialized
+INFO - 2024-01-17 10:29:51 --> Language Class Initialized
+INFO - 2024-01-17 10:29:51 --> Loader Class Initialized
+INFO - 2024-01-17 10:29:51 --> Helper loaded: url_helper
+INFO - 2024-01-17 10:29:51 --> Helper loaded: file_helper
+INFO - 2024-01-17 10:29:51 --> Helper loaded: form_helper
+INFO - 2024-01-17 10:29:51 --> Database Driver Class Initialized
+DEBUG - 2024-01-17 10:29:51 --> Session: "sess_save_path" is empty; using "session.save_path" value from php.ini.
+INFO - 2024-01-17 10:29:51 --> Session: Class initialized using 'files' driver.
+INFO - 2024-01-17 10:29:51 --> Language file loaded: language/english/pagination_lang.php
+INFO - 2024-01-17 10:29:51 --> Pagination Class Initialized
+INFO - 2024-01-17 10:29:51 --> XML-RPC Class Initialized
+INFO - 2024-01-17 10:29:51 --> User Agent Class Initialized
+INFO - 2024-01-17 10:29:51 --> Controller Class Initialized
+INFO - 2024-01-17 10:29:51 --> Model "M_pengunjung" initialized
+INFO - 2024-01-17 10:29:52 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminnavigation.php
+INFO - 2024-01-17 10:29:52 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\admin/v_dashboard.php
+INFO - 2024-01-17 10:29:52 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/adminfooter.php
+INFO - 2024-01-17 10:29:52 --> File loaded: C:\xampp\htdocs\websitesekolah\application\views\theme/admintemplate.php
+INFO - 2024-01-17 10:29:52 --> Final output sent to browser
+DEBUG - 2024-01-17 10:29:52 --> Total execution time: 0.5109
